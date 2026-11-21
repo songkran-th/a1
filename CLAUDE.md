@@ -15,6 +15,16 @@
 2. ทำงานต่อจากขั้นตอนถัดไปที่จดไว้
 3. จบงาน: อัปเดต "สถานะล่าสุด" ใน README ของเรื่อง แล้ว commit + push
 
+## House Style ของ Phi Juk (ใช้ร่วมทุกเรื่อง)
+- **Thai Cinematic Epic Painterly Fantasy** ฝีแปรงพอดี · **16:9** — ใช้ใน 000 ปทีปปรโลก, 001 สยามสัมปัตติ (เรือเที่ยวสุดท้าย) และ 002
+- แต่ละเรื่องคงฐานสไตล์นี้ แล้วกำหนดโทนสี/แสงของตัวเองใน `art-direction.md` ของเรื่อง
+- **Visual Lock:** อนุมัติภาพอ้างอิงตัวละคร/prop/สถานที่ก่อน แล้วใช้เป็น reference ทุกช็อต
+- **Color/Lighting Baseline** ต่อสถานที่ · แสงเวทมนตร์/แสงพิเศษเป็น local spill ไม่ย้อมทั้งฉาก
+- ห้ามเพิ่มตัวละคร วัตถุ ตัวหนังสือ ซับในภาพ หรือเวทมนตร์ที่ไม่มีในบท
+- ตั้งชื่อช็อต: `EP01_SQ05_SH008_..._v1` (ตอน / ซีเควนซ์ / ช็อต / เวอร์ชัน)
+- Motion prompt (image-to-video) ปิดท้ายด้วยประโยคล็อก เช่น
+  `Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects.`
+
 ## มาตรฐาน production (ค่าเริ่มต้น เว้นแต่ README ของเรื่องระบุอื่น)
 - ภาษาในบท/บทพูด: ไทย
 - ความยาวต่อตอน: 10–14 นาที
