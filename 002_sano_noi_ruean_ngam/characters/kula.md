@@ -21,12 +21,13 @@
 
 ## Prompt — Master Turnaround (KULA_SERVANT)
 ```
-Character design turnaround sheet of a young Thai village woman, about 20 years old, three views (front, three-quarter, back)
+Character design turnaround sheet of a young Thai village woman, about 20 years old, distinctly Thai Southeast Asian facial features, three views (front, three-quarter, back)
 plus three facial expression close-ups (grateful smile, sly sideways glance, envy), plain warm ivory background.
 Heart-shaped face, high cheekbones, large round dark-brown eyes with slightly upturned outer corners,
 thick sharply arched brows, thin lips with a habitual slight smirk, honey skin, small mole under her left eye,
 thick slightly wavy black hair in a loose bun with stray strands, lively agile build.
-Wearing a faded olive-green cotton pha sin and a reddish-brown cotton sabai, no jewelry.
+Wearing a faded olive-green cotton pha sin and a reddish-brown cotton sabai, no jewelry, barefoot.
+Plain warm ivory paper background only, no scenery, no architecture.
 Consistent identity across all views, no text, no labels.
 ```
 **+ Style Base** · **16:9**
