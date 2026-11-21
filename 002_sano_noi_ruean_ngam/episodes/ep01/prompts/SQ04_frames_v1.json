@@ -90,5 +90,15 @@
    "CHR_HATSAWICHAI.jpg",
    "CHR_KETSANI.jpg"
   ]
+ },
+ {
+  "name": "EP01_SQ04_SH003_v2",
+  "prompt": "The fourth reference image is the previous version of THIS shot: keep its composition, bed, lighting, Sano Noi's pose and the glowing house, but REMOVE ALL OTHER PEOPLE — no maids, no attendants, nobody else in the room. Sano Noi is completely alone. Cinematic film still, first frame of a video shot, 16:9, no text, no subtitles, no decorative border, no frame, full-bleed image. Kingdom of Romwisai: ivory, gold and sesbania-yellow palette. Keep every referenced character's identical face, hair and costume. Extras have clearly Thai Southeast Asian faces.\nReference images: the royal bedchamber (use as Sano Noi's own bedchamber); Princess Sano Noi (same face, but now in a plain ivory sleeping gown with her hair loose, no crown); the enchanted house. Night: Sano Noi sits up suddenly in her canopy bed, startled awake, breathing hard, one hand at her chest; on the small golden table beside the bed the tiny enchanted sesbania-wood house flickers with a pulse of golden light; moonlight through the window.\nThai cinematic painterly fairy-tale, epic fantasy illustration with refined visible brushwork,\nancient Thai fairy-tale kingdom, Thai mural and lai rod nam ornamental motifs,\nwarm high-key golden light, palette of sesbania yellow, gold leaf, ivory, jade green and deep indigo,\nexquisitely detailed traditional Thai costumes and architecture, magical glowing accents,\ncinematic composition, 16:9",
+  "refs": [
+   "LOC_ROMWISAI_BIRTH_CHAMBER.jpg",
+   "CHR_SANO_PRINCESS_v3.jpg",
+   "LOC_PROP_RUEAN_SANO.jpg",
+   "EP01_SQ04_SH003_v1.png"
+  ]
  }
 ]
