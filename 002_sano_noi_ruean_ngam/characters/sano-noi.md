@@ -1,5 +1,8 @@
 # โสนน้อย (SANO NOI)
 
+> 🔒 **VISUAL LOCK 2026-11-21 — Master Look: `CHR_SANO_PRINCESS_v3.jpg`** ([Drive](https://drive.google.com/file/d/1RAMjuRpU81KBVSWfQX5mi0PuA6FTbCpc/view))
+> ลุคอื่นทุกลุคใช้ภาพนี้เป็น reference (image-to-image) ห้ามเปลี่ยนใบหน้า · prompt Master ด้านล่างคือ prompt ที่ใช้เจนภาพนี้
+
 ## ตัวตน
 - พระธิดานครโรมวิสัย ประสูติพร้อมเรือนไม้โสน · อายุ 18 (EP1–4) → ราว 19–20 (EP5–6) → ราว 32–34 (EP7 ท้าย–EP8 หลังเวลาผ่านไป)
 - อ่อนโยนแต่ใจแข็ง ช่างสังเกต มือศิลป์ (บายศรี ย้อมผ้า เพลง) เมตตาเป็นนิสัย

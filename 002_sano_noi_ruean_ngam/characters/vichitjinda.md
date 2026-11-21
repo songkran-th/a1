@@ -1,5 +1,8 @@
 # พระวิจิตรจินดา (PHRA WICHIT CHINDA)
 
+> 🔒 **VISUAL LOCK 2026-11-21 — Master Look: `CHR_PRINCE_ROYAL_v5.jpg`** ([Drive](https://drive.google.com/file/d/1DyZxqhyHREHAcEz9HNUqCZ8CJJcpmfW5/view))
+> ลุคอื่นทุกลุคใช้ภาพนี้เป็น reference (image-to-image) ห้ามเปลี่ยนใบหน้า · prompt Master ด้านล่างคือ prompt ที่ใช้เจนภาพนี้
+
 ## ตัวตน
 - โอรสท้าวกาลศึกแห่งนพรัตน์ · อายุ 22 (EP1–4) → ราว 24 (EP5–6) → ราว 36–38 (EP7 ท้าย–EP8)
 - กล้า ซื่อ ใจร้อน ตัดสินใจเร็ว — จุดอ่อน: เชื่อสิ่งที่ตาเห็น
