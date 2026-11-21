@@ -38,4 +38,5 @@
 - ข้อจำกัด: connector อัปขึ้น Drive ได้ ~3 MB/ไฟล์ → อัปภาพเป็น JPG q95 (~1.5–1.8 MB) แทน PNG
 - 2026-11-21: เจน v3 ทั้ง 3 คน (คำบรรยายหน้าไทยละเอียด) — หน้าไทยชัดขึ้น · Drive: [SANO v3](https://drive.google.com/file/d/1RAMjuRpU81KBVSWfQX5mi0PuA6FTbCpc/view) · [KULA v3](https://drive.google.com/file/d/12UjnYcgUPVEFk_7m4l8cSkDe2ars1aFv/view) · [PRINCE v3](https://drive.google.com/file/d/1RFJVZIEoVI7pLoGc3tGFyAokeNqUdKfd/view)
 - 2026-11-21: พระวิจิตรจินดา v4 (ยังไม่ผ่าน) → v5 หน้าไทยชัด · Drive: [PRINCE v5](https://drive.google.com/file/d/1DyZxqhyHREHAcEz9HNUqCZ8CJJcpmfW5/view)
-- **ขั้นต่อไป:** เจ้าของงานอนุมัติ Master Look (โสนน้อย v3 · กุลา v3 · พระวิจิตรจินดา v5) (Visual Lock) → ลุคอื่น (image-to-image) + ตัวละครรอง → อนุมัติ (Visual Lock) → ลุคอื่น + ตัวละครรอง → location sheet → character sheet + location sheet (gpt-image 2.6) → บท EP1
+- 2026-11-21: กุลา v4 หน้าไทยชัด · Drive: [KULA v4](https://drive.google.com/file/d/12pqwgm_weqxR_iYdofUNCszl5iYl6q0V/view)
+- **ขั้นต่อไป:** เจ้าของงานอนุมัติ Master Look (โสนน้อย v3 · กุลา v4 · พระวิจิตรจินดา v5) (Visual Lock) → ลุคอื่น (image-to-image) + ตัวละครรอง → อนุมัติ (Visual Lock) → ลุคอื่น + ตัวละครรอง → location sheet → character sheet + location sheet (gpt-image 2.6) → บท EP1
