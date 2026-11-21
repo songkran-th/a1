@@ -20,6 +20,7 @@
 ## โครงไฟล์ใน repo
 - `story/treatment-modern.md` — **ฉบับเล่าใหม่ (ใช้ตัวนี้เป็นหลัก)**
 - `story/synopsis.md` — ลำดับเรื่องตามต้นฉบับเต็ม (34 ข้อ)
+- `art-direction.md` — สไตล์ภาพ ชุดสี prompt ฐาน
 - `characters/`, `locations/` — sheet + prompt ภาพ
 - `episodes/epXX/` — `script.md`, `prompts.md`
 
@@ -29,4 +30,5 @@
 - 2026-11-21: ได้ต้นฉบับเต็ม (PDF ใน `01_REFERENCE`) → เขียน synopsis ใหม่ + **treatment v2: 12 ตอน / 2 ซีซัน**
 - 2026-11-21: treatment **v3 — 8 ตอน 🔒 ล็อกเรื่อง**
 - 2026-11-21: v3.1 — design bible เรือนไม้โสน (`locations/ruean-sano.md`)
-- **ขั้นต่อไป:** art direction 16:9 → character sheet + location sheet (gpt-image 2.6) → บท EP1
+- 2026-11-21: ร่าง art direction (`art-direction.md`) — ต่อยอดสไตล์ปทีปปรโลก รออนุมัติ
+- **ขั้นต่อไป:** อนุมัติ art direction → character sheet + location sheet (gpt-image 2.6) → บท EP1
