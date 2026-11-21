@@ -3,67 +3,84 @@
   "name": "EP01_SQ03_SH001_v1",
   "prompt": "Cinematic film still, first frame of a video shot, 16:9, no text, no subtitles, no decorative border, no frame, full-bleed image. Kingdom of Romwisai: ivory, gold and sesbania-yellow palette. Keep every referenced character's identical face, hair and costume, and the enchanted house's exact design. Magic glow is local light only; it does not recolor skin or the whole room.\nReference images: the Romwisai birth chamber; the Romwisai palace. Night. Wide shot of the royal birth chamber lit by many candles, sheer ivory curtains around the carved canopy bed, two palace maids kneeling with bowls of water and cloths, the moon visible through the tall window; a hushed, expectant atmosphere. The small golden side table beside the bed is empty.\nThai cinematic painterly fairy-tale, epic fantasy illustration with refined visible brushwork,\nancient Thai fairy-tale kingdom, Thai mural and lai rod nam ornamental motifs,\nwarm high-key golden light, palette of sesbania yellow, gold leaf, ivory, jade green and deep indigo,\nexquisitely detailed traditional Thai costumes and architecture, magical glowing accents,\ncinematic composition, 16:9",
   "refs": [
-   "BIRTH",
-   "PALACE"
+   "LOC_ROMWISAI_BIRTH_CHAMBER.jpg",
+   "LOC_ROMWISAI_PALACE.jpg"
   ]
  },
  {
   "name": "EP01_SQ03_SH002_v1",
   "prompt": "Cinematic film still, first frame of a video shot, 16:9, no text, no subtitles, no decorative border, no frame, full-bleed image. Kingdom of Romwisai: ivory, gold and sesbania-yellow palette. Keep every referenced character's identical face, hair and costume, and the enchanted house's exact design. Magic glow is local light only; it does not recolor skin or the whole room.\nReference images: Queen Ketsani; the birth chamber; the enchanted sesbania-wood house. Queen Ketsani in a soft ivory sleeping gown, hair loose, sits up in the canopy bed cradling her newborn daughter, gazing down with love; on the small golden side table beside the bed a tiny enchanted house is materializing in a soft rising golden glow, glowing yellow sesbania petals floating around it. The enchanted house design (match the house reference exactly): A tiny enchanted traditional Thai house (ruean thai) carved entirely from pale ivory-gold sesbania wood,\nsteep double-tiered gabled roof with chofa finials shaped like half-open yellow sesbania flowers,\ncovered in gold leaf, lai rod nam gold-on-black-lacquer patterns on the doors and shutters,\namber glass mosaic and mother-of-pearl inlay, every surface carved with yellow sesbania blossoms and vines,\npierced fretwork vents casting flower-shaped light, tiny golden sesbania-flower bells hanging from the eaves,\nthe wood itself glowing with a warm inner amber-gold light, floating glowing sesbania petals around it,\nmystical, sacred, exquisitely detailed Thai royal craftsmanship, ancient Thai fairy-tale kingdom,\ncinematic lighting, shallow depth of field\nThai cinematic painterly fairy-tale, epic fantasy illustration with refined visible brushwork,\nancient Thai fairy-tale kingdom, Thai mural and lai rod nam ornamental motifs,\nwarm high-key golden light, palette of sesbania yellow, gold leaf, ivory, jade green and deep indigo,\nexquisitely detailed traditional Thai costumes and architecture, magical glowing accents,\ncinematic composition, 16:9",
   "refs": [
-   "KETSANI",
-   "BIRTH",
-   "HOUSE"
+   "CHR_KETSANI.jpg",
+   "LOC_ROMWISAI_BIRTH_CHAMBER.jpg",
+   "LOC_PROP_RUEAN_SANO.jpg"
   ]
  },
  {
   "name": "EP01_SQ03_SH003_v1",
   "prompt": "Cinematic film still, first frame of a video shot, 16:9, no text, no subtitles, no decorative border, no frame, full-bleed image. Kingdom of Romwisai: ivory, gold and sesbania-yellow palette. Keep every referenced character's identical face, hair and costume, and the enchanted house's exact design. Magic glow is local light only; it does not recolor skin or the whole room.\nReference images: the enchanted sesbania-wood house; the birth chamber. Extreme close-up of the tiny house on the golden side table: chofa finials shaped like half-open sesbania flowers, lai rod nam gold patterns on its doors, amber glass mosaic, flower-shaped beams of light falling through its pierced fretwork onto the table, tiny golden sesbania-flower bells hanging from its eaves caught mid-swing although there is no wind; candles softly blurred behind. The enchanted house design (match the house reference exactly): A tiny enchanted traditional Thai house (ruean thai) carved entirely from pale ivory-gold sesbania wood,\nsteep double-tiered gabled roof with chofa finials shaped like half-open yellow sesbania flowers,\ncovered in gold leaf, lai rod nam gold-on-black-lacquer patterns on the doors and shutters,\namber glass mosaic and mother-of-pearl inlay, every surface carved with yellow sesbania blossoms and vines,\npierced fretwork vents casting flower-shaped light, tiny golden sesbania-flower bells hanging from the eaves,\nthe wood itself glowing with a warm inner amber-gold light, floating glowing sesbania petals around it,\nmystical, sacred, exquisitely detailed Thai royal craftsmanship, ancient Thai fairy-tale kingdom,\ncinematic lighting, shallow depth of field\nThai cinematic painterly fairy-tale, epic fantasy illustration with refined visible brushwork,\nancient Thai fairy-tale kingdom, Thai mural and lai rod nam ornamental motifs,\nwarm high-key golden light, palette of sesbania yellow, gold leaf, ivory, jade green and deep indigo,\nexquisitely detailed traditional Thai costumes and architecture, magical glowing accents,\ncinematic composition, 16:9",
   "refs": [
-   "HOUSE",
-   "BIRTH"
+   "LOC_PROP_RUEAN_SANO.jpg",
+   "LOC_ROMWISAI_BIRTH_CHAMBER.jpg"
   ]
  },
  {
   "name": "EP01_SQ03_SH004_v1",
   "prompt": "Cinematic film still, first frame of a video shot, 16:9, no text, no subtitles, no decorative border, no frame, full-bleed image. Kingdom of Romwisai: ivory, gold and sesbania-yellow palette. Keep every referenced character's identical face, hair and costume, and the enchanted house's exact design. Magic glow is local light only; it does not recolor skin or the whole room.\nReference image: the Romwisai palace courtyard. Night, moonlight and lanterns: all the sesbania trees across the palace courtyard and the city beyond have burst into full yellow bloom out of season at the same moment, blossoms softly luminous, petals drifting through the air; townspeople and palace servants in simple Thai clothes have come out and stand looking up in wonder. Townspeople have clearly Thai Southeast Asian faces.\nThai cinematic painterly fairy-tale, epic fantasy illustration with refined visible brushwork,\nancient Thai fairy-tale kingdom, Thai mural and lai rod nam ornamental motifs,\nwarm high-key golden light, palette of sesbania yellow, gold leaf, ivory, jade green and deep indigo,\nexquisitely detailed traditional Thai costumes and architecture, magical glowing accents,\ncinematic composition, 16:9",
   "refs": [
-   "PALACE"
+   "LOC_ROMWISAI_PALACE.jpg"
   ]
  },
  {
   "name": "EP01_SQ03_SH005_v1",
   "prompt": "Cinematic film still, first frame of a video shot, 16:9, no text, no subtitles, no decorative border, no frame, full-bleed image. Kingdom of Romwisai: ivory, gold and sesbania-yellow palette. Keep every referenced character's identical face, hair and costume, and the enchanted house's exact design. Magic glow is local light only; it does not recolor skin or the whole room.\nReference images: King Hatsawichai; the Romwisai palace. On a palace balcony at night, King Hatsawichai tenderly holds his newborn daughter wrapped in ivory and gold cloth, smiling with tears in his eyes as he looks out over the city where sesbania trees glow in full bloom and petals drift past the balcony.\nThai cinematic painterly fairy-tale, epic fantasy illustration with refined visible brushwork,\nancient Thai fairy-tale kingdom, Thai mural and lai rod nam ornamental motifs,\nwarm high-key golden light, palette of sesbania yellow, gold leaf, ivory, jade green and deep indigo,\nexquisitely detailed traditional Thai costumes and architecture, magical glowing accents,\ncinematic composition, 16:9",
   "refs": [
-   "KING",
-   "PALACE"
+   "CHR_HATSAWICHAI.jpg",
+   "LOC_ROMWISAI_PALACE.jpg"
   ]
  },
  {
   "name": "EP01_SQ03_SH006A_v1",
   "prompt": "Cinematic film still, first frame of a video shot, 16:9, no text, no subtitles, no decorative border, no frame, full-bleed image. Kingdom of Romwisai: ivory, gold and sesbania-yellow palette. Keep every referenced character's identical face, hair and costume, and the enchanted house's exact design. Magic glow is local light only; it does not recolor skin or the whole room.\nReference images: Princess Sano Noi as a young woman (use ONLY for her facial features — here she is a little girl of about 6); the enchanted house; the Romwisai palace garden. Daytime in the palace garden under sesbania trees: little princess Sano Noi, about 6 years old, in a small yellow silk outfit with a tiny gold headpiece, kneels and plays beside the small enchanted house placed on a low carved stand, the house glowing softly as she laughs. The enchanted house design (match the house reference exactly): A tiny enchanted traditional Thai house (ruean thai) carved entirely from pale ivory-gold sesbania wood,\nsteep double-tiered gabled roof with chofa finials shaped like half-open yellow sesbania flowers,\ncovered in gold leaf, lai rod nam gold-on-black-lacquer patterns on the doors and shutters,\namber glass mosaic and mother-of-pearl inlay, every surface carved with yellow sesbania blossoms and vines,\npierced fretwork vents casting flower-shaped light, tiny golden sesbania-flower bells hanging from the eaves,\nthe wood itself glowing with a warm inner amber-gold light, floating glowing sesbania petals around it,\nmystical, sacred, exquisitely detailed Thai royal craftsmanship, ancient Thai fairy-tale kingdom,\ncinematic lighting, shallow depth of field\nThai cinematic painterly fairy-tale, epic fantasy illustration with refined visible brushwork,\nancient Thai fairy-tale kingdom, Thai mural and lai rod nam ornamental motifs,\nwarm high-key golden light, palette of sesbania yellow, gold leaf, ivory, jade green and deep indigo,\nexquisitely detailed traditional Thai costumes and architecture, magical glowing accents,\ncinematic composition, 16:9",
   "refs": [
-   "SANO",
-   "HOUSE",
-   "PALACE"
+   "CHR_SANO_PRINCESS_v3.jpg",
+   "LOC_PROP_RUEAN_SANO.jpg",
+   "LOC_ROMWISAI_PALACE.jpg"
   ]
  },
  {
   "name": "EP01_SQ03_SH006B_v1",
   "prompt": "Cinematic film still, first frame of a video shot, 16:9, no text, no subtitles, no decorative border, no frame, full-bleed image. Kingdom of Romwisai: ivory, gold and sesbania-yellow palette. Keep every referenced character's identical face, hair and costume, and the enchanted house's exact design. Magic glow is local light only; it does not recolor skin or the whole room.\nReference images: Princess Sano Noi as a young woman (use ONLY for her facial features — here she is a girl of about 12); the enchanted house; the Romwisai palace. A girl of about 12, princess Sano Noi, sits on a palace veranda skillfully weaving a flower garland and folding banana leaves into a small baisri offering; the small enchanted house sits beside her glowing gently; afternoon light.\nThai cinematic painterly fairy-tale, epic fantasy illustration with refined visible brushwork,\nancient Thai fairy-tale kingdom, Thai mural and lai rod nam ornamental motifs,\nwarm high-key golden light, palette of sesbania yellow, gold leaf, ivory, jade green and deep indigo,\nexquisitely detailed traditional Thai costumes and architecture, magical glowing accents,\ncinematic composition, 16:9",
   "refs": [
-   "SANO",
-   "HOUSE",
-   "PALACE"
+   "CHR_SANO_PRINCESS_v3.jpg",
+   "LOC_PROP_RUEAN_SANO.jpg",
+   "LOC_ROMWISAI_PALACE.jpg"
   ]
  },
  {
   "name": "EP01_SQ03_SH006C_v1",
   "prompt": "Cinematic film still, first frame of a video shot, 16:9, no text, no subtitles, no decorative border, no frame, full-bleed image. Kingdom of Romwisai: ivory, gold and sesbania-yellow palette. Keep every referenced character's identical face, hair and costume, and the enchanted house's exact design. Magic glow is local light only; it does not recolor skin or the whole room.\nReference images: Princess Sano Noi (age 18, use her exact face and costume); the enchanted house; the Romwisai palace garden. Princess Sano Noi at 18, in her yellow and gold princess attire, stands in a garden of blooming sesbania trees at golden hour and smiles; beside her on a carved stand the small enchanted house brightens in answer to her smile, its glow spilling softly onto the petals.\nThai cinematic painterly fairy-tale, epic fantasy illustration with refined visible brushwork,\nancient Thai fairy-tale kingdom, Thai mural and lai rod nam ornamental motifs,\nwarm high-key golden light, palette of sesbania yellow, gold leaf, ivory, jade green and deep indigo,\nexquisitely detailed traditional Thai costumes and architecture, magical glowing accents,\ncinematic composition, 16:9",
   "refs": [
-   "SANO",
-   "HOUSE",
-   "PALACE"
+   "CHR_SANO_PRINCESS_v3.jpg",
+   "LOC_PROP_RUEAN_SANO.jpg",
+   "LOC_ROMWISAI_PALACE.jpg"
+  ]
+ },
+ {
+  "name": "EP01_SQ03_SH003_v2",
+  "prompt": "Cinematic film still, first frame of a video shot, 16:9, no text, no subtitles, no decorative border, no frame, full-bleed image. Kingdom of Romwisai: ivory, gold and sesbania-yellow palette. Keep every referenced character's identical face, hair and costume, and the enchanted house's exact design. Magic glow is local light only; it does not recolor skin or the whole room.\nReference images: the enchanted sesbania-wood house; the birth chamber. NO PEOPLE IN THIS SHOT — no woman, no hands, no faces; an object-only insert shot. Extreme close-up of the tiny house alone on the golden side table: chofa finials shaped like half-open sesbania flowers, lai rod nam gold patterns on its doors, amber glass mosaic, flower-shaped beams of light falling through its pierced fretwork onto the table, tiny golden sesbania-flower bells hanging from its eaves caught mid-swing although there is no wind; candles softly blurred behind. The enchanted house design (match the house reference exactly): A tiny enchanted traditional Thai house (ruean thai) carved entirely from pale ivory-gold sesbania wood,\nsteep double-tiered gabled roof with chofa finials shaped like half-open yellow sesbania flowers,\ncovered in gold leaf, lai rod nam gold-on-black-lacquer patterns on the doors and shutters,\namber glass mosaic and mother-of-pearl inlay, every surface carved with yellow sesbania blossoms and vines,\npierced fretwork vents casting flower-shaped light, tiny golden sesbania-flower bells hanging from the eaves,\nthe wood itself glowing with a warm inner amber-gold light, floating glowing sesbania petals around it,\nmystical, sacred, exquisitely detailed Thai royal craftsmanship, ancient Thai fairy-tale kingdom,\ncinematic lighting, shallow depth of field\nThai cinematic painterly fairy-tale, epic fantasy illustration with refined visible brushwork,\nancient Thai fairy-tale kingdom, Thai mural and lai rod nam ornamental motifs,\nwarm high-key golden light, palette of sesbania yellow, gold leaf, ivory, jade green and deep indigo,\nexquisitely detailed traditional Thai costumes and architecture, magical glowing accents,\ncinematic composition, 16:9",
+  "refs": [
+   "LOC_PROP_RUEAN_SANO.jpg",
+   "LOC_ROMWISAI_BIRTH_CHAMBER.jpg"
+  ]
+ },
+ {
+  "name": "EP01_SQ03_SH006B_v2",
+  "prompt": "Cinematic film still, first frame of a video shot, 16:9, no text, no subtitles, no decorative border, no frame, full-bleed image. Kingdom of Romwisai: ivory, gold and sesbania-yellow palette. Keep every referenced character's identical face, hair and costume, and the enchanted house's exact design. Magic glow is local light only; it does not recolor skin or the whole room.\nReference images: Princess Sano Noi as a young woman (use ONLY for her facial features — here she is a child of about 12; make her look obviously younger than the reference); the enchanted house; the Romwisai palace. A clearly pre-teen GIRL of 11–12 years old (child proportions, small and slender, round childlike face, NOT a grown woman, no adult figure), princess Sano Noi, wearing a simple child's yellow silk outfit with a small gold headband, sits on a palace veranda skillfully weaving a flower garland and folding banana leaves into a small baisri offering; the small enchanted house sits beside her glowing gently; afternoon light.\nThai cinematic painterly fairy-tale, epic fantasy illustration with refined visible brushwork,\nancient Thai fairy-tale kingdom, Thai mural and lai rod nam ornamental motifs,\nwarm high-key golden light, palette of sesbania yellow, gold leaf, ivory, jade green and deep indigo,\nexquisitely detailed traditional Thai costumes and architecture, magical glowing accents,\ncinematic composition, 16:9",
+  "refs": [
+   "CHR_SANO_PRINCESS_v3.jpg",
+   "LOC_PROP_RUEAN_SANO.jpg",
+   "LOC_ROMWISAI_PALACE.jpg"
   ]
  }
 ]
