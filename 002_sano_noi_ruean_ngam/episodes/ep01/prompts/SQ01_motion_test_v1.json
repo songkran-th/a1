@@ -1,0 +1,30 @@
+[
+ {
+  "name": "EP01_SQ01_SH001_MOTION_GROK_v1",
+  "model": "grok",
+  "prompt": "The prince and his two companions ride their horses forward along the forest path at a gentle canter toward the camera-right; manes and sashes sway, light shafts shimmer through the mist, a few birds lift from the canopy. Slow camera dolly following alongside. Ambient sounds only: hoofbeats on soil, birdsong, soft wind. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects.",
+  "duration": 10,
+  "image": "EP01_SQ01_SH001_v2.png"
+ },
+ {
+  "name": "EP01_SQ01_SH001_MOTION_H3_v1",
+  "model": "h3",
+  "prompt": "The prince and his two companions ride their horses forward along the forest path at a gentle canter toward the camera-right; manes and sashes sway, light shafts shimmer through the mist, a few birds lift from the canopy. Slow camera dolly following alongside. Ambient sounds only: hoofbeats on soil, birdsong, soft wind. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects.",
+  "duration": 10,
+  "image": "EP01_SQ01_SH001_v2.png"
+ },
+ {
+  "name": "EP01_SQ01_SH004_MOTION_GROK_v1",
+  "model": "grok",
+  "prompt": "The green venom mist coils tighter around the prince's right forearm as the dark purple veins slowly creep further up toward his elbow; he gasps and sinks lower on one knee, his left hand pressing the moss, face twisting in pain; the two companions lunge toward him in alarm. Slow push-in on the prince. Ambient sounds only: a sharp gasp, rustling leaves, a low hiss. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects.",
+  "duration": 10,
+  "image": "EP01_SQ01_SH004_v2.png"
+ },
+ {
+  "name": "EP01_SQ01_SH004_MOTION_H3_v1",
+  "model": "h3",
+  "prompt": "The green venom mist coils tighter around the prince's right forearm as the dark purple veins slowly creep further up toward his elbow; he gasps and sinks lower on one knee, his left hand pressing the moss, face twisting in pain; the two companions lunge toward him in alarm. Slow push-in on the prince. Ambient sounds only: a sharp gasp, rustling leaves, a low hiss. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects.",
+  "duration": 10,
+  "image": "EP01_SQ01_SH004_v2.png"
+ }
+]
