@@ -6,7 +6,7 @@
 | ประเภท | วรรณคดี / นิทานพื้นบ้านไทย — **เล่าใหม่ให้ร่วมสมัย** คงฉากยุคโบราณและเหตุการณ์หลัก ดู `story/treatment-modern.md` |
 | สัดส่วนภาพ | **16:9 แนวนอน** |
 | ความยาวต่อตอน | 10–14 นาที |
-| จำนวนตอน | 12 ตอน แบ่ง 2 ซีซัน (ร่าง) — ดู `story/treatment-modern.md` |
+| จำนวนตอน | **8 ตอน** (2 ภาค × 4 ตอน) — 🔒 ล็อกแล้ว ดู `story/treatment-modern.md` |
 | ภาพ | gpt-image 2.6 |
 | วิดีโอ | Grok หรือ MiniMax ผ่าน KIE |
 | ตัดต่อ | CapCut (บน PC) |
@@ -27,4 +27,5 @@
 - 2026-11-21: สร้างโฟลเดอร์ Drive + repo, ร่างเรื่องย่อและแผน 6 ตอน
 - 2026-11-21: เขียน treatment v1 (6 ตอน) จากข้อมูลไม่ครบ
 - 2026-11-21: ได้ต้นฉบับเต็ม (PDF ใน `01_REFERENCE`) → เขียน synopsis ใหม่ + **treatment v2: 12 ตอน / 2 ซีซัน**
-- **ขั้นต่อไป:** เจ้าของงานรีวิว treatment → ล็อกเรื่อง → art direction 16:9 + character sheet (gpt-image 2.6)
+- 2026-11-21: treatment **v3 — 8 ตอน 🔒 ล็อกเรื่อง**
+- **ขั้นต่อไป:** art direction 16:9 → character sheet + location sheet (gpt-image 2.6) → บท EP1
