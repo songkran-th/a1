@@ -1,0 +1,37 @@
+[
+ {
+  "name": "EP01_SQ03_SH003_MOTION_GROK_v2",
+  "model": "grok",
+  "image": "EP01_SQ03_SH003_v2.png",
+  "prompt": "Close on the tiny enchanted house: its little golden bells swing and chime by themselves though there is no wind; flower-shaped beams of light shimmer through the fretwork onto the table; petals float upward. The camera stays almost still with only a very gentle slow push-in; the little house itself is perfectly rigid and does NOT change shape, roof, proportions or details at any moment — only its bells swing, its light shimmers and petals drift. Ambient: soft golden bells, a gentle hum. Nobody speaks; all mouths stay closed. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects.",
+  "duration": 15
+ },
+ {
+  "name": "EP01_SQ04_SH005_MOTION_GROK_v2",
+  "model": "grok",
+  "image": "EP01_SQ04_SH005_v1.png",
+  "prompt": "The astrologer bows his forehead to the floor; courtiers whisper behind their hands; King Hatsawichai's fist tightens on the throne arm while his face shows deep grief and pain — brows drawn together, eyes wet, jaw clenched, absolutely NOT smiling. Only the astrologer, face to the floor speaks, clearly in Thai, once: “ดวงเช่นนี้เป็นกาลกิณีต่อบ้านเมือง พระธิดาต้องออกไปอยู่ป่า จึงจะพ้นเคราะห์” — courtiers only murmur indistinctly. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects.",
+  "duration": 15
+ },
+ {
+  "name": "EP01_SQ07_SH004_MOTION_GROK_v2",
+  "model": "grok",
+  "image": "EP01_SQ07_SH004_v1.png",
+  "prompt": "Keep Kula's exact face from frame one throughout (same face shape, eyes, mole under left eye, hair). Kula's eyes snap open and she gasps a great breath, chest heaving, staring up in shock; golden sparkles fade from her skin. Ambient: a sharp gasp. Nobody speaks; all mouths stay closed. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects.",
+  "duration": 10
+ },
+ {
+  "name": "EP01_SQ04_SH005_MOTION_GROK_v3",
+  "model": "grok",
+  "image": "EP01_SQ04_SH005_v1.png",
+  "prompt": "The astrologer bows his forehead to the floor; courtiers whisper behind their hands; King Hatsawichai stays nearly motionless: his mouth stays firmly closed, lips pressed tight, eyes slowly lower and close in silent sorrow, a stern heavy face; he does not smile, laugh, grin or open his mouth at any moment. The only movement on the king is his fist slowly tightening on the throne arm. Only the astrologer, face to the floor speaks, clearly in Thai, once: “ดวงเช่นนี้เป็นกาลกิณีต่อบ้านเมือง พระธิดาต้องออกไปอยู่ป่า จึงจะพ้นเคราะห์” — courtiers only murmur indistinctly. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects.",
+  "duration": 15
+ },
+ {
+  "name": "EP01_SQ04_SH005_MOTION_H3_v3",
+  "model": "h3",
+  "image": "EP01_SQ04_SH005_v1.png",
+  "prompt": "The astrologer bows his forehead to the floor; courtiers whisper behind their hands; King Hatsawichai stays nearly motionless: his mouth stays firmly closed, lips pressed tight, eyes slowly lower and close in silent sorrow, a stern heavy face; he does not smile, laugh, grin or open his mouth at any moment. The only movement on the king is his fist slowly tightening on the throne arm. Only the astrologer, face to the floor speaks, clearly in Thai, once: “ดวงเช่นนี้เป็นกาลกิณีต่อบ้านเมือง พระธิดาต้องออกไปอยู่ป่า จึงจะพ้นเคราะห์” — courtiers only murmur indistinctly. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects.",
+  "duration": 15
+ }
+]
