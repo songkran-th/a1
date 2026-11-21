@@ -4,6 +4,8 @@
 > ทุกครั้งที่เรือนปรากฏ ให้ถือเป็น **ฉากพิเศษ**: เพิ่มเวลาบนจอ ใช้ดนตรีธีมเฉพาะ และทำภาพละเอียดที่สุด
 > 🟢 = มีในต้นฉบับ · 🔵 = เติมเพื่อขับความพิเศษ (ไม่เปลี่ยนเหตุการณ์หลัก)
 
+> 🔒 ภาพอ้างอิงที่อนุมัติ: [LOC_PROP_RUEAN_SANO_v1.jpg](https://drive.google.com/file/d/1GmQWe0-NlXHWTKsVwzasyJqc0dIvb6UR/view) (ภายนอก) · [LOC_RUEAN_SANO_INTERIOR_v1.jpg](https://drive.google.com/file/d/1BY3ZuEYjruWK3S3_SRYF22amKUkTt3in/view) (ภายใน)
+
 ## ที่มา
 🟢 เรือนทองวิเศษหลังน้อยทำจากไม้โสน ประสูติมาพร้อมโสนน้อย — เป็นเหตุให้ได้ชื่อ "โสนน้อย"
 

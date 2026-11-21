@@ -48,9 +48,9 @@ prompt ทุกภาพเก็บที่ `prompts/batch_2026-11-21.json`
 | พระวิจิตรจินดา | พระศพ | [CHR_PRINCE_DEAD_v1.jpg](https://drive.google.com/file/d/1-eV1jp90o4qHVqSKD0v7jnx8s7nC_Zvj/view) |
 | พระวิจิตรจินดา | เดินทะเล/รบ | [CHR_PRINCE_SEA_BATTLE_v1.jpg](https://drive.google.com/file/d/1JpG_-ws5uL3HijN2jXBluoyGUdr9bboD/view) |
 | พระวิจิตรจินดา | ผู้ตามหา (อายุ 36) | [CHR_PRINCE_SEEKER_v1.jpg](https://drive.google.com/file/d/1fSF8Mp897Vys6VF380MEoHQou47rA4EN/view) |
-| กุลา | สวมรอย | [CHR_KULA_IMPOSTOR_v1.jpg](https://drive.google.com/file/d/1_j4UTftnkF_M9fQ7tFj3xIK4otgqtjVd/view) |
-| กุลา | งามหลังบ่อน้ำเหลือง | [CHR_KULA_BEAUTY_v1.jpg](https://drive.google.com/file/d/1b0x3yrIkkA-fxKnqukiFCZ9ys3yHyjTd/view) |
-| กุลา | ถูกเปิดโปง | [CHR_KULA_FALLEN_v1.jpg](https://drive.google.com/file/d/1CxiqCvb9km7qerrkiWd6lfD5eiqLpEXm/view) |
+| กุลา | สวมรอย | [CHR_KULA_IMPOSTOR_v2.jpg](https://drive.google.com/file/d/1JhcsOgxcK6D-DI0bEYUQXgYR8MNh-JtT/view) |
+| กุลา | งามหลังบ่อน้ำเหลือง | [CHR_KULA_BEAUTY_v2.jpg](https://drive.google.com/file/d/1KFqRgjOyjCBDSbC8UClISdDjfvbePX1O/view) |
+| กุลา | ถูกเปิดโปง | [CHR_KULA_FALLEN_v3.jpg](https://drive.google.com/file/d/107A8BZW8137alexi2VTUHPVx1-kSyLDs/view) |
 | ท้าวกาลศึก |  | [CHR_KALASUEK_v1.jpg](https://drive.google.com/file/d/1FXXEevIPkp5SA6r3mp0kIhMQ2B_uSFoL/view) |
 | พระนางประไพ |  | [CHR_PRAPAI_v2.jpg](https://drive.google.com/file/d/19d1Tnm9VUfZoiW-CwMy8-Va9KjRac6EX/view) |
 | ท้าวหัสวิชัย |  | [CHR_HATSAWICHAI_v1.jpg](https://drive.google.com/file/d/1jyX5zDIOtDjaOLj4YhQneEMBf8XVSf7V/view) |
@@ -61,9 +61,9 @@ prompt ทุกภาพเก็บที่ `prompts/batch_2026-11-21.json`
 | ไพรวัลย์ | วัยรุ่น | [CHR_PHRAIWAN_TEEN_v1.jpg](https://drive.google.com/file/d/138TLVjgagPlpuXEyQS9pRSY_9-26adY2/view) |
 | ไพรวัลย์ | เด็ก | [CHR_PHRAIWAN_CHILD_v1.jpg](https://drive.google.com/file/d/1aoLGAIWdK-yTnELhN2H1kAOKq9mffklJ/view) |
 | ไพรวัลย์ | ทารกในตะกร้า | [CHR_PHRAIWAN_BABY_v1.jpg](https://drive.google.com/file/d/1kQkD2mVCQoV4qiR9MITInnWtsq1zIEwZ/view) |
-| วิไล |  | [CHR_WILAI_v1.jpg](https://drive.google.com/file/d/1eIigBANYVKl9JrO40FzML9GYj29-QnTb/view) |
+| วิไล |  | [CHR_WILAI_v2.jpg](https://drive.google.com/file/d/1HD4jB7o7vkaQFrfJ17Q_jZci7u-ja3fy/view) |
 | สองตายาย |  | [CHR_ELDERS_v1.jpg](https://drive.google.com/file/d/1B0uL7PVawaYn9-rOCh73Wy-e5D-qmlsJ/view) |
 | โหรหลวง 2 เมือง |  | [CHR_ORACLES_v1.jpg](https://drive.google.com/file/d/1V5MVfPItiVrykJw9HkLBFc8s01pPX1MW/view) |
 | ทหารคนสนิท |  | [CHR_GUARD_v1.jpg](https://drive.google.com/file/d/1c-wXh5oIYK-vOfE4aKW9w4N4sO8L51NC/view) |
 
-ข้อสังเกตจาก QC: กุลา (สวมรอย/งาม/ถูกเปิดโปง) ใบหน้าเพี้ยนจาก Master v3 เล็กน้อย · วิไลได้ทรงผมสมัยใหม่ (ไม่ใช่ทรงมหาดไทย)
+แก้แล้ว: กุลา 3 ลุคเจนใหม่ให้หน้าตรง Master v3 (prompt ย้ำ "reproduce her exact face… do not beautify/westernize") · วิไลเปลี่ยนเป็นทรงมหาดไทย · เวอร์ชันเก่าย้ายไปถังขยะ Drive แล้ว

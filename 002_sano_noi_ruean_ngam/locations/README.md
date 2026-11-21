@@ -1,6 +1,6 @@
 # Location Sheet — โสนน้อยเรือนงาม
 
-> สถานะ: **ร่าง v1 — เจน baseline แล้ว รอเจ้าของงานอนุมัติ (Visual Lock)**
+> สถานะ: 🔒 **VISUAL LOCK 2026-11-21 — เจ้าของงานอนุมัติ baseline ทั้งชุด**
 > ภาพ baseline = ภาพมุมกว้าง 16:9 **ไม่มีคน** ใช้ล็อกสถาปัตยกรรม สี และแสงของแต่ละสถานที่ (Color/Lighting Baseline ตาม House Style)
 > ทุก prompt ต่อท้าย Style Base (`../art-direction.md`) · ภาพเก็บที่ Drive `03_LOCATIONS/` ชื่อ `LOC_<รหัส>_v1.jpg`
 > เรือนไม้โสน (prop หลัก) มี design bible แยกที่ `ruean-sano.md`
@@ -25,6 +25,27 @@
 | WILAI_HOUSE | เรือนเศรษฐีวิไล | EP7–8 | ไม้สักขัดเงา ทองฉูดฉาด ม่วง · แสงบ่าย |
 | RUEAN_SANO_INTERIOR | ภายในเรือนไม้โสน | EP4 | ทองเรืองแสง ดอกโสนลอย · แสงจากวัตถุเอง |
 | PROP_RUEAN_SANO | เรือนไม้โสน (prop turnaround) | EP1, 3, 4, 6, 8 | ดู `ruean-sano.md` |
+
+## 🔒 ภาพ Baseline ที่อนุมัติ (Drive `03_LOCATIONS`)
+- `ROMWISAI_PALACE` → [LOC_ROMWISAI_PALACE_v1.jpg](https://drive.google.com/file/d/1GSrVu41kHvWANb8-rz4vHzv1V8_ZpRNL/view)
+- `ROMWISAI_SHRINE` → [LOC_ROMWISAI_SHRINE_v1.jpg](https://drive.google.com/file/d/1bxK-5W_1gnue0TYxxx6gYYVWQ8qIj0Rm/view)
+- `FOREST` → [LOC_FOREST_v1.jpg](https://drive.google.com/file/d/11ecZNtdgP656vIVns1gn0biimfBCQ4Gn/view)
+- `NOPPARAT_THRONE` → [LOC_NOPPARAT_THRONE_v1.jpg](https://drive.google.com/file/d/1XmVDQc7r4_UUOtUzJ0n7ulAny7gWA0-U/view)
+- `SEVEN_CURTAINS` → [LOC_SEVEN_CURTAINS_v1.jpg](https://drive.google.com/file/d/1039fZ5Oqjg0kUPPtZJO95sobVdbX7-Rh/view)
+- `BATH_PAVILION` → [LOC_BATH_PAVILION_v1.jpg](https://drive.google.com/file/d/11sRbNHWUo_8x6X-9Kl-tJtrV_tvBJjqf/view)
+- `SERVANT_QUARTERS` → [LOC_SERVANT_QUARTERS_v1.jpg](https://drive.google.com/file/d/1jb7NSdY7zyJneO7mB81iz66KsraLX3rT/view)
+- `HARBOR` → [LOC_HARBOR_v1.jpg](https://drive.google.com/file/d/16dhfo78_YdjAKtGFBcJu2oUiulO6c0_B/view)
+- `SEA_STORM` → [LOC_SEA_STORM_v1.jpg](https://drive.google.com/file/d/1d0LoyPKf9sDKKx9EEsJX18-iJSy3GBDt/view)
+- `GIANT_CITY` → [LOC_GIANT_CITY_v1.jpg](https://drive.google.com/file/d/13y7HS95MOJwuFtHcsNob_KPuPxb8eNNd/view)
+- `HERMITAGE` → [LOC_HERMITAGE_v1.jpg](https://drive.google.com/file/d/1A_5ayp_zMEG8CKroYLGXHfZkAhXlQSHH/view)
+- `TWIN_PONDS` → [LOC_TWIN_PONDS_v1.jpg](https://drive.google.com/file/d/1Ysd_mHr9RQdxLKU_Z4UUlNY4G-zmepPO/view)
+- `RIVER` → [LOC_RIVER_v1.jpg](https://drive.google.com/file/d/1e_VNJ7iSP8yAIds4kXKcwLi_rulJCyD4/view)
+- `BORDER_VILLAGE` → [LOC_BORDER_VILLAGE_v1.jpg](https://drive.google.com/file/d/1UkXUAqqZhkix6pddpnnwDVPY4K5_D-yZ/view)
+- `WILAI_HOUSE` → [LOC_WILAI_HOUSE_v1.jpg](https://drive.google.com/file/d/1Zry00edNQtkN_8tf2TWxRwSxfLo_uCJ1/view)
+- `RUEAN_SANO_INTERIOR` → [LOC_RUEAN_SANO_INTERIOR_v1.jpg](https://drive.google.com/file/d/1BY3ZuEYjruWK3S3_SRYF22amKUkTt3in/view)
+- `PROP_RUEAN_SANO` → [LOC_PROP_RUEAN_SANO_v1.jpg](https://drive.google.com/file/d/1GmQWe0-NlXHWTKsVwzasyJqc0dIvb6UR/view)
+
+> หมายเหตุ: baseline หลายภาพมีกรอบลายไทยติดขอบ — ใช้เป็นภาพอ้างอิงได้ แต่ตอนเจนภาพฉาก/เฟรมวิดีโอ ให้เติม `no decorative border, no frame, full-bleed image` ทุกครั้ง
 
 ## Prompts
 ทุกภาพ: `Wide cinematic establishing shot, 16:9, no people, no characters, no text.` + รายละเอียดด้านล่าง + Style Base
