@@ -31,3 +31,39 @@
 - พระวิจิตรจินดา v4 ยังไม่ไทยพอ → v5 สำเร็จด้วยการเลิกเน้น "warrior / broad-shouldered / handsome" (ดึงหน้าไปทางลาติน) แล้วอ้างอิง "ชายหนุ่มกรุงเทพฯ/อยุธยา + นักรำโขน" พร้อมรายการ Avoid
 - กุลา v3 ยังมีเค้าลูกครึ่ง → v4 ใช้วิธีเดียวกับพระเอก: อ้างอิง "หญิงชาวบ้านภาคกลาง" + ตัดตากลมโต/โหนกแก้มสูง/คิ้วโก่ง/ผมหยักศก + รายการ Avoid → หน้าไทยชัด
 - ✅ เจ้าของงานเลือก: โสนน้อย v3 · กุลา **v3** (ไม่ใช้ v4) · พระวิจิตรจินดา v5 — ไฟล์ kula.md คืน prompt/anchors เป็น v3
+
+## ภาพทั้งหมด (2026-11-21) — รอเจ้าของงานตรวจ
+ลุคอื่นของตัวละครหลักเจนแบบ image-to-image จาก Master ที่ล็อก · ตัวละครรองใช้ prompt หน้าไทย + ภาพพ่อแม่/ลูกเป็น reference สำหรับความคล้ายในครอบครัว
+prompt ทุกภาพเก็บที่ `prompts/batch_2026-11-21.json`
+
+| ตัวละคร | ลุค | ไฟล์ (Drive `02_CHARACTERS`) |
+|---|---|---|
+| โสนน้อย | ปลอมเป็นชาวบ้าน | [CHR_SANO_COMMONER_v1.jpg](https://drive.google.com/file/d/11Zhif1rVjUr2m_mvxCAse9MjMbnTNGGh/view) |
+| โสนน้อย | เครื่องทรงพิธี | [CHR_SANO_RITUAL_v1.jpg](https://drive.google.com/file/d/1ny9qzjnk4Hur7lMvIZIaOG7lhGmMa8G_/view) |
+| โสนน้อย | นางทาส | [CHR_SANO_SERVANT_v1.jpg](https://drive.google.com/file/d/1FJGm5UDX2Ab-EBYGRc9opA0oXgfGp1qj/view) |
+| โสนน้อย | พระชายา | [CHR_SANO_QUEEN_v1.jpg](https://drive.google.com/file/d/1zL5WFuTJ9SAtu2PjRyJ9ubvbwq33J8Mv/view) |
+| โสนน้อย | ต้องคำสาป | [CHR_SANO_CURSED_v2.jpg](https://drive.google.com/file/d/1VhJC4T63dOTHj-0c9qK-o7tgW7vW2j3k/view) |
+| โสนน้อย | กลับงาม (อายุ 32) | [CHR_SANO_RESTORED_v1.jpg](https://drive.google.com/file/d/11TcaUJdduKaGZXAlhf6eummnHw1QP72z/view) |
+| พระวิจิตรจินดา | ล่าสัตว์ | [CHR_PRINCE_HUNT_v1.jpg](https://drive.google.com/file/d/1BKd1-AQpLgUQlFYQg_S70ZCXe0QaV47i/view) |
+| พระวิจิตรจินดา | พระศพ | [CHR_PRINCE_DEAD_v1.jpg](https://drive.google.com/file/d/1-eV1jp90o4qHVqSKD0v7jnx8s7nC_Zvj/view) |
+| พระวิจิตรจินดา | เดินทะเล/รบ | [CHR_PRINCE_SEA_BATTLE_v1.jpg](https://drive.google.com/file/d/1JpG_-ws5uL3HijN2jXBluoyGUdr9bboD/view) |
+| พระวิจิตรจินดา | ผู้ตามหา (อายุ 36) | [CHR_PRINCE_SEEKER_v1.jpg](https://drive.google.com/file/d/1fSF8Mp897Vys6VF380MEoHQou47rA4EN/view) |
+| กุลา | สวมรอย | [CHR_KULA_IMPOSTOR_v1.jpg](https://drive.google.com/file/d/1_j4UTftnkF_M9fQ7tFj3xIK4otgqtjVd/view) |
+| กุลา | งามหลังบ่อน้ำเหลือง | [CHR_KULA_BEAUTY_v1.jpg](https://drive.google.com/file/d/1b0x3yrIkkA-fxKnqukiFCZ9ys3yHyjTd/view) |
+| กุลา | ถูกเปิดโปง | [CHR_KULA_FALLEN_v1.jpg](https://drive.google.com/file/d/1CxiqCvb9km7qerrkiWd6lfD5eiqLpEXm/view) |
+| ท้าวกาลศึก |  | [CHR_KALASUEK_v1.jpg](https://drive.google.com/file/d/1FXXEevIPkp5SA6r3mp0kIhMQ2B_uSFoL/view) |
+| พระนางประไพ |  | [CHR_PRAPAI_v2.jpg](https://drive.google.com/file/d/19d1Tnm9VUfZoiW-CwMy8-Va9KjRac6EX/view) |
+| ท้าวหัสวิชัย |  | [CHR_HATSAWICHAI_v1.jpg](https://drive.google.com/file/d/1jyX5zDIOtDjaOLj4YhQneEMBf8XVSf7V/view) |
+| นางเกษณี |  | [CHR_KETSANI_v1.jpg](https://drive.google.com/file/d/11sJalIusKQVwt-jE3KXA2P64K1XS9tcD/view) |
+| พระอินทร์ (ชีปะขาว) |  | [CHR_INDRA_v1.jpg](https://drive.google.com/file/d/1HKV5SIB4EjhJKieG1jT4wg-ooung_cTT/view) |
+| พระฤๅษีปู่เจ้า |  | [CHR_RUESI_v1.jpg](https://drive.google.com/file/d/1v4vzM8ZfCoa0zoqNNUNFobYUTzUHFMlr/view) |
+| ท้าวจตุรพักตร์ |  | [CHR_CHATURAPHAK_v1.jpg](https://drive.google.com/file/d/1NTgHyUCT2zdom5mraMeWS7DNgjtM1TOq/view) |
+| ไพรวัลย์ | วัยรุ่น | [CHR_PHRAIWAN_TEEN_v1.jpg](https://drive.google.com/file/d/138TLVjgagPlpuXEyQS9pRSY_9-26adY2/view) |
+| ไพรวัลย์ | เด็ก | [CHR_PHRAIWAN_CHILD_v1.jpg](https://drive.google.com/file/d/1aoLGAIWdK-yTnELhN2H1kAOKq9mffklJ/view) |
+| ไพรวัลย์ | ทารกในตะกร้า | [CHR_PHRAIWAN_BABY_v1.jpg](https://drive.google.com/file/d/1kQkD2mVCQoV4qiR9MITInnWtsq1zIEwZ/view) |
+| วิไล |  | [CHR_WILAI_v1.jpg](https://drive.google.com/file/d/1eIigBANYVKl9JrO40FzML9GYj29-QnTb/view) |
+| สองตายาย |  | [CHR_ELDERS_v1.jpg](https://drive.google.com/file/d/1B0uL7PVawaYn9-rOCh73Wy-e5D-qmlsJ/view) |
+| โหรหลวง 2 เมือง |  | [CHR_ORACLES_v1.jpg](https://drive.google.com/file/d/1V5MVfPItiVrykJw9HkLBFc8s01pPX1MW/view) |
+| ทหารคนสนิท |  | [CHR_GUARD_v1.jpg](https://drive.google.com/file/d/1c-wXh5oIYK-vOfE4aKW9w4N4sO8L51NC/view) |
+
+ข้อสังเกตจาก QC: กุลา (สวมรอย/งาม/ถูกเปิดโปง) ใบหน้าเพี้ยนจาก Master v3 เล็กน้อย · วิไลได้ทรงผมสมัยใหม่ (ไม่ใช่ทรงมหาดไทย)
