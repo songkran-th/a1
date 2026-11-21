@@ -1,0 +1,326 @@
+[
+ {
+  "shot": "SQ01_SH001",
+  "frame": "EP01_SQ01_SH001_v2",
+  "duration": 10,
+  "prompt": "REUSE motion test EP01_SQ01_SH001_MOTION_GROK_v1"
+ },
+ {
+  "shot": "SQ01_SH002",
+  "frame": "EP01_SQ01_SH002_v2",
+  "duration": 10,
+  "prompt": "The prince holds his drawn bow steady, aiming; the deer bounds away into the thicket and vanishes; leaves stop moving and the forest falls unnaturally still; the light dims slightly. Slow push-in on the prince. Ambient: a sudden hush, faint wind dying. Nobody speaks; all mouths stay closed. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ01_SH003",
+  "frame": "EP01_SQ01_SH003_v2",
+  "duration": 15,
+  "prompt": "The prince stares down at the giant scale imprints; green mist slowly thickens and rises from the mud; behind the trees the shadowy naga silhouette shifts its coils and slides out of sight into the mist; the companions behind him freeze. Slow creeping camera dolly forward. Ambient: scales rasping on leaves, a low hiss. Nobody speaks; all mouths stay closed. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ01_SH004",
+  "frame": "EP01_SQ01_SH004_v2",
+  "duration": 10,
+  "prompt": "REUSE motion test EP01_SQ01_SH004_MOTION_GROK_v1"
+ },
+ {
+  "shot": "SQ01_SH005",
+  "frame": "EP01_SQ01_SH005_v2",
+  "duration": 15,
+  "prompt": "The companion cradles the motionless prince, shaking him gently, then lowers his head in grief; the prince stays utterly still with eyes closed; mist drifts through the single shaft of light. Only the companion in green, calling out in anguish speaks, clearly in Thai, once: “พระองค์! พระวิจิตรจินดา!” — the prince remains motionless and silent. Slow pull-back. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ02_SH001",
+  "frame": "EP01_SQ02_SH001_v1",
+  "duration": 15,
+  "prompt": "Queen Prapai weeps against her son's body on the golden bier, her shoulders shaking; King Kalasuek stands rigid, fighting tears, then closes his eyes; candle flames flicker; dust motes drift in the light beams. Very slow push-in. Ambient: quiet sobbing, crackling candles. Nobody speaks; all mouths stay closed. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ02_SH002",
+  "frame": "EP01_SQ02_SH002_v1",
+  "duration": 10,
+  "prompt": "The astrologer unrolls the palm-leaf manuscript on the stand; King Kalasuek leans forward from the throne and demands an answer. Only King Kalasuek speaks, clearly in Thai, once: “โหร! บอกเรามา ลูกเราต้องเคราะห์ถึงเพียงนี้เพราะเหตุใด” — the astrologer listens with his mouth closed. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ02_SH003",
+  "frame": "EP01_SQ02_SH003_v1",
+  "duration": 15,
+  "prompt": "The astrologer reads gravely; above him the ghostly golden-green vision plays out: the warrior's sword strikes the naga, and the naga exhales its green venom cloud before fading away. Only the astrologer speaks, clearly in Thai, once: “ชาติปางก่อน พระโอรสเคยปลิดชีพพญานาค พิษนี้คือแรงอาฆาตที่คายไว้รอพระองค์มาแต่ครั้งนั้น พระเจ้าข้า” — everyone else keeps their mouth closed. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ02_SH004",
+  "frame": "EP01_SQ02_SH004_v1",
+  "duration": 15,
+  "prompt": "The astrologer lifts his gaze to the bier with dawning hope; all the candle flames around the bier flare and bend together for a moment, then settle. Only the astrologer speaks, clearly in Thai, once: “แต่ดวงพระโอรสยังไม่สิ้น ภายภาคหน้าจะมีพระธิดาต่างเมือง ผู้เคยเป็นเนื้อคู่กันมา มาชุบชีวิตให้คืนฟื้น” — everyone else keeps their mouth closed. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ02_SH005",
+  "frame": "EP01_SQ02_SH005_v1",
+  "duration": 10,
+  "prompt": "King Kalasuek rises from his throne and stretches his arm toward the great doors, commanding. Only King Kalasuek speaks, clearly in Thai, once: “เก็บรักษาพระศพไว้ให้ดีที่สุด และประกาศไปทั่วทุกทิศ ผู้ใดชุบชีวิตลูกเราได้ จะได้อภิเษกและครองเมืองนพรัตน์สืบไป” — everyone else keeps their mouth closed. Slow low-angle push-in. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ02_SH006",
+  "frame": "EP01_SQ02_SH006_v1",
+  "duration": 10,
+  "prompt": "The two messengers gallop out through the gate toward camera, the scroll held high; drummers on the tower beat the drums; dust billows. Tracking shot. Ambient: drums, hoofbeats. Nobody speaks; all mouths stay closed. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ03_SH001",
+  "frame": "EP01_SQ03_SH001_v1",
+  "duration": 10,
+  "prompt": "Night in the birth chamber: candle flames sway, sheer curtains stir softly, the two maids wait with bowls and cloths, glancing toward the bed. Slow drift toward the bed. Ambient: a newborn's first cry from behind the curtains, night breeze. Nobody speaks; all mouths stay closed. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ03_SH002",
+  "frame": "EP01_SQ03_SH002_v1",
+  "duration": 15,
+  "prompt": "Queen Ketsani cradles her newborn and smiles down at her; beside the bed the tiny enchanted house fully materializes in a rising golden glow, glowing yellow petals swirling up around it; the light falls softly on the queen's face. Slow push-in toward the house. Ambient: delicate golden bells chiming softly, a gentle female hum. Nobody speaks; all mouths stay closed. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ03_SH003",
+  "frame": "EP01_SQ03_SH003_v2",
+  "duration": 15,
+  "prompt": "Close on the tiny enchanted house: its little golden bells swing and chime by themselves though there is no wind; flower-shaped beams of light shimmer through the fretwork onto the table; petals float upward. Slow orbit around the house. Ambient: soft golden bells, a gentle hum. Nobody speaks; all mouths stay closed. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ03_SH004",
+  "frame": "EP01_SQ03_SH004_v1",
+  "duration": 15,
+  "prompt": "All across the moonlit courtyard the sesbania trees burst into glowing yellow bloom; petals stream through the air; townspeople look up and point in wonder, children laughing. Slow crane up over the crowd. Ambient: gasps and murmurs of wonder, wind in the blossoms. Nobody speaks; all mouths stay closed. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ03_SH005",
+  "frame": "EP01_SQ03_SH005_v1",
+  "duration": 10,
+  "prompt": "King Hatsawichai gazes tenderly at his newborn daughter, tears in his eyes, petals drifting past the balcony. Only King Hatsawichai, softly speaks, clearly in Thai, once: “ลูกเกิดมาพร้อมเรือนไม้โสน…เจ้าจงชื่อว่า โสนน้อย” — the baby sleeps peacefully. Slow push-in. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ03_SH006A",
+  "frame": "EP01_SQ03_SH006A_v1",
+  "duration": 6,
+  "prompt": "Little Sano Noi laughs and plays beside the enchanted house; it glows brighter as she laughs; petals fall around her. Ambient: child's laughter, soft bells. Nobody speaks words. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ03_SH006B",
+  "frame": "EP01_SQ03_SH006B_v2",
+  "duration": 6,
+  "prompt": "The young girl weaves the jasmine garland with nimble, careful fingers, glancing at the softly glowing house beside her with a small smile. Ambient: birdsong, soft bells. Nobody speaks; all mouths stay closed. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ03_SH006C",
+  "frame": "EP01_SQ03_SH006C_v1",
+  "duration": 6,
+  "prompt": "Grown Sano Noi smiles in the sesbania garden; at her smile the house beside her brightens warmly, its glow spilling onto falling petals. Slow push-in. Ambient: soft bells, gentle hum. Nobody speaks; all mouths stay closed. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ04_SH001",
+  "frame": "EP01_SQ04_SH001_v1",
+  "duration": 15,
+  "prompt": "Sano Noi walks slowly along the misty golden dream path toward the young man in vermilion who stands with his back to her; golden haze drifts; petals float suspended. Slow dreamy tracking behind her. Ambient: airy dream tones, faint wind. Nobody speaks; all mouths stay closed. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ04_SH002",
+  "frame": "EP01_SQ04_SH002_v1",
+  "duration": 10,
+  "prompt": "Sano Noi reaches out; her fingers pass through the young man's shoulder like mist; his translucent figure dissolves into golden haze and is gone; she stares at her empty hand. Ambient: rising whistling wind. Nobody speaks; all mouths stay closed. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ04_SH003",
+  "frame": "EP01_SQ04_SH003_v2",
+  "duration": 6,
+  "prompt": "Sano Noi jolts awake, breathing hard, hand at her chest; the tiny house beside the bed pulses with a flicker of golden light. Ambient: heavy breathing. Nobody speaks; all mouths stay closed. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ04_SH004",
+  "frame": "EP01_SQ04_SH004_v2",
+  "duration": 15,
+  "prompt": "The kneeling astrologer clutches his forehead in pain as he delivers the reading; the king and queen on the thrones react in shock. Only the plump old astrologer speaks, clearly in Thai, once: “เนื้อคู่ของพระธิดา…เป็นคนที่สิ้นใจไปแล้ว พระเจ้าข้า” — everyone else keeps their mouth closed. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ04_SH005",
+  "frame": "EP01_SQ04_SH005_v1",
+  "duration": 15,
+  "prompt": "The astrologer bows his forehead to the floor; courtiers whisper behind their hands; King Hatsawichai's fist tightens on the throne arm. Only the astrologer, face to the floor speaks, clearly in Thai, once: “ดวงเช่นนี้เป็นกาลกิณีต่อบ้านเมือง พระธิดาต้องออกไปอยู่ป่า จึงจะพ้นเคราะห์” — courtiers only murmur indistinctly. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ04_SH006",
+  "frame": "EP01_SQ04_SH006_v1",
+  "duration": 10,
+  "prompt": "Queen Ketsani grips her daughter's hands and shakes her head, tears spilling. Only Queen Ketsani speaks, clearly in Thai, once: “แม่จะไม่ยอมให้ลูกไปไหนทั้งนั้น” — Sano Noi keeps her mouth closed, eyes sad. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ04_SH007",
+  "frame": "EP01_SQ04_SH007_v2",
+  "duration": 15,
+  "prompt": "Sano Noi looks out the window at the townspeople, then lifts her chin with resolve; her grieving parents behind her. Only Sano Noi, calm and firm speaks, clearly in Thai, once: “ถ้าการจากไปของลูกทำให้บ้านเมืองพ้นภัย ลูกขอไปเองเพคะ…ไม่ต้องให้ใครมาขับไล่” — her parents only weep silently. Slow push-in on her face. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ05_SH001",
+  "frame": "EP01_SQ05_SH001_v1",
+  "duration": 15,
+  "prompt": "Sano Noi gently sets her gold headpiece on the altar beside the glowing house and rests her hands in her lap, gazing at it in silence; candle flames sway. Very slow push-in. Ambient: soft bells, distant night insects. Nobody speaks; all mouths stay closed. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ05_SH002",
+  "frame": "EP01_SQ05_SH002_v1",
+  "duration": 15,
+  "prompt": "Sano Noi's fingertips rest on the little roof; the house's golden glow slowly dims as if falling asleep until only faint sparkles remain; the sesbania blossoms on the altar slowly close; a tear runs down her cheek. Only Sano Noi, in a soft whisper speaks, clearly in Thai, once: “อยู่รอข้าที่นี่นะ” — everyone else keeps their mouth closed. Ambient: one last soft chime of the golden bells. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ05_SH003",
+  "frame": "EP01_SQ05_SH003_v2",
+  "duration": 10,
+  "prompt": "Sano Noi walks steadily away from the palace along the dirt path toward the misty fields, not looking back; yellow petals drift down around her; morning light grows. Slow tracking alongside. Ambient: morning birds, footsteps on soil. Nobody speaks; all mouths stay closed. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ06_SH001",
+  "frame": "EP01_SQ06_SH001_v1",
+  "duration": 15,
+  "prompt": "Sano Noi trudges through the pouring rain holding the banana leaf over her head, mud splashing at her bare feet, pushing forward with determination. Tracking shot backward in front of her. Ambient: heavy rain, insects. Nobody speaks; all mouths stay closed. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ06_SH002",
+  "frame": "EP01_SQ06_SH002_v1",
+  "duration": 15,
+  "prompt": "The monkey chews its leaf; Sano Noi looks from the monkey to the same leaf in her hand, bites a corner, winces at the bitterness, then nods with understanding and tucks the leaf into her bundle. Ambient: forest birds, stream. Nobody speaks; all mouths stay closed. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ06_SH003",
+  "frame": "EP01_SQ06_SH003_v1",
+  "duration": 10,
+  "prompt": "By the stream Sano Noi slowly unfolds the banana leaf to reveal the small portion of sticky rice and looks at it thoughtfully. Ambient: flowing stream. Nobody speaks; all mouths stay closed. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ06_SH004",
+  "frame": "EP01_SQ06_SH004_v1",
+  "duration": 15,
+  "prompt": "The frail old ascetic steadies himself on his staff; Sano Noi holds his arm with concern. Only the old ascetic, weakly speaks, clearly in Thai, once: “แม่หนู…ตาเฒ่าไม่ได้กินอะไรมาหลายวันแล้ว” — Sano Noi listens silently. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ06_SH005",
+  "frame": "EP01_SQ06_SH005_v2",
+  "duration": 10,
+  "prompt": "Sano Noi holds out the rice parcel with both hands and a warm smile; the old man reaches toward it. Only Sano Noi, gently speaks, clearly in Thai, once: “กินเถิดเจ้าค่ะ ข้ายังเดินไหว” — the old man keeps his mouth closed. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ06_SH006",
+  "frame": "EP01_SQ06_SH006_v1",
+  "duration": 15,
+  "prompt": "The old ascetic smiles and places the glowing vial into her palms; his shadow on the ground remains the crowned deity silhouette and subtly shimmers; Sano Noi looks only at the vial. Only the old ascetic, warmly speaks, clearly in Thai, once: “ใจที่ให้ได้แม้ในวันที่ตนเองไม่มี ควรคู่กับของสิ่งนี้ ยานี้ชุบชีวิตคนตายได้ จงใช้มันให้ดี” — Sano Noi listens silently. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ06_SH007",
+  "frame": "EP01_SQ06_SH007_v1",
+  "duration": 6,
+  "prompt": "Sano Noi looks up from the vial in wonder; mist swirls where the old man sat; two emerald points of light glint in the mist and fade. Ambient: a whistling breeze, a faint distant bell. Nobody speaks; all mouths stay closed. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ07_SH001",
+  "frame": "EP01_SQ07_SH001_v1",
+  "duration": 10,
+  "prompt": "A crow lifts off the branch; Sano Noi hurries forward toward the motionless woman lying beside the path. Ambient: crow wings, silent forest. Nobody speaks; all mouths stay closed. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ07_SH002",
+  "frame": "EP01_SQ07_SH002_v1",
+  "duration": 10,
+  "prompt": "Sano Noi feels for a pulse on Kula's wrist, finds none, and looks down at the vial in her other hand; Kula lies utterly still. Only Sano Noi, softly speaks, clearly in Thai, once: “ยังไม่มีใครรู้เลยหรือว่าเจ้าอยู่ตรงนี้” — Kula remains lifeless and silent. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ07_SH003",
+  "frame": "EP01_SQ07_SH003_v2",
+  "duration": 15,
+  "prompt": "Golden drops fall from the vial onto Kula's forehead; warm golden light spreads through her skin from the forehead and the ankle wound; color slowly returns to her face while she stays still. Slow push-in. Ambient: a soft warm hum. Nobody speaks; all mouths stay closed. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ07_SH004",
+  "frame": "EP01_SQ07_SH004_v1",
+  "duration": 10,
+  "prompt": "Kula's eyes snap open and she gasps a great breath, chest heaving, staring up in shock; golden sparkles fade from her skin. Ambient: a sharp gasp. Nobody speaks; all mouths stay closed. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ07_SH005",
+  "frame": "EP01_SQ07_SH005_v1",
+  "duration": 15,
+  "prompt": "Kula bows low at Sano Noi's feet with hands pressed together; Sano Noi bends to stop her. Only Kula, tearfully speaks, clearly in Thai, once: “ข้าชื่อกุลา…ชีวิตนี้ท่านให้ข้ามา ขอข้าติดตามรับใช้ท่านไปจนตายเถิด” — Sano Noi keeps her mouth closed. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ07_SH006",
+  "frame": "EP01_SQ07_SH006_v1",
+  "duration": 10,
+  "prompt": "Sano Noi helps Kula to her feet, smiling; sunlight breaks through the canopy. Only Sano Noi, warmly speaks, clearly in Thai, once: “อย่ากราบข้าเลย เดินไปด้วยกันเถิด” — Kula smiles with her mouth closed. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ07_SH007",
+  "frame": "EP01_SQ07_SH007_v2",
+  "duration": 10,
+  "prompt": "The two women walk toward camera along the trail; Sano Noi looks ahead; behind her Kula's eyes slide to the glowing vial in the bundle and linger a beat too long, a faint smirk forming, then she looks away. Slow backward tracking. Ambient: footsteps on leaves, no music. Nobody speaks; all mouths stay closed. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ08_SH001",
+  "frame": "EP01_SQ08_SH001_v1",
+  "duration": 15,
+  "prompt": "The two women walk along the paddy path; Kula chatters and laughs, handing over wild fruit; Sano Noi laughs and takes it; wind ripples the rice. Wide slow tracking. Ambient: light laughter at a distance, wind, birds (no clear words). Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ08_SH002",
+  "frame": "EP01_SQ08_SH002_v1",
+  "duration": 10,
+  "prompt": "Firelight flickers; Kula sleeps; Sano Noi gazes up at the stars, a quiet homesick look. Very slow push-in. Ambient: crickets, crackling fire. Nobody speaks; all mouths stay closed. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ08_SH002I",
+  "frame": "EP01_SQ08_SH002I_v1",
+  "duration": 6,
+  "prompt": "The dark shrine is perfectly still; the unlit tiny house waits on the altar; only a faint moonbeam slowly crosses its gold patterns. Ambient: deep silence. Nobody speaks; all mouths stay closed. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ08_SH003",
+  "frame": "EP01_SQ08_SH003_v1",
+  "duration": 15,
+  "prompt": "From the hilltop the two women gaze at the vermilion city of Nopparat as morning mist drifts off the river; sunlight spreads over the roofs. Slow crane-up revealing the city. Ambient: wind, distant temple bells. Nobody speaks; all mouths stay closed. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ08_SH004",
+  "frame": "EP01_SQ08_SH004_v1",
+  "duration": 15,
+  "prompt": "The crowd mills in front of the city gate; the royal guard stands at attention by the proclamation board; Sano Noi and Kula weave in at the edge of the crowd, looking around. Ambient: market chatter (indistinct). Nobody speaks; all mouths stay closed. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ08_SH005",
+  "frame": "EP01_SQ08_SH005_v1",
+  "duration": 15,
+  "prompt": "The herald strikes the gong and raises the scroll, announcing to the crowd as people turn to listen. Only the herald, loudly speaks, clearly in Thai, once: “ประกาศแก่ราษฎรทุกทิศ! ผู้ใดชุบชีวิตพระวิจิตรจินดาได้ จะได้อภิเษกกับพระโอรส และครองเมืองนพรัตน์สืบไป!” — the crowd keeps silent. Ambient: gong boom. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ08_SH006",
+  "frame": "EP01_SQ08_SH006_v1",
+  "duration": 10,
+  "prompt": "Villagers whisper and shake their heads; the old man waves his hand dismissively. Only the old man waving his hand speaks, clearly in Thai, once: “หมอมากี่คนก็กลับไปมือเปล่า ไม่มีใครทำได้หรอก” — the others only murmur with mouths nearly closed. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ08_SH007",
+  "frame": "EP01_SQ08_SH007_v1",
+  "duration": 10,
+  "prompt": "Kula leans close and whispers into Sano Noi's ear with gleaming eyes; Sano Noi keeps looking at the proclamation. Only Kula, whispering speaks, clearly in Thai, once: “ครองเมือง…ท่านได้ยินไหม” — Sano Noi keeps her mouth closed. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ08_SH008",
+  "frame": "EP01_SQ08_SH008_v1",
+  "duration": 10,
+  "prompt": "Sano Noi stares at the scroll; the translucent dream garden overlay brightens briefly — the man in vermilion stands with his back turned — then fades away; her eyes widen with recognition. Ambient: faint dream tones. Nobody speaks; all mouths stay closed. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ08_SH009",
+  "frame": "EP01_SQ08_SH009_v1",
+  "duration": 10,
+  "prompt": "Sano Noi steps out of the crowd and walks toward the royal guard; one by one people turn to stare and fall silent; Kula watches from behind, surprised. Ambient: the crowd noise drops to silence. Nobody speaks; all mouths stay closed. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ },
+ {
+  "shot": "SQ08_SH010",
+  "frame": "EP01_SQ08_SH010_v1",
+  "duration": 10,
+  "prompt": "Close on Sano Noi: she lifts her chin, steady and determined, a loose strand of hair moving in the wind. Only Sano Noi, clear and calm speaks, clearly in Thai, once: “หม่อมฉันจะชุบชีวิตพระโอรสเอง” — everyone else keeps their mouth closed. Slow push-in. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects."
+ }
+]
