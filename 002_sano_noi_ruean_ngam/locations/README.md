@@ -29,6 +29,7 @@
 | DREAM_GARDEN | สวนในความฝันของโสนน้อย | EP1, EP8? | หมอกทอง ดอกโสน · แสงกระจายไม่มีดวงอาทิตย์ |
 | NOPPARAT_CITY | เมืองนพรัตน์มองจากเนินไกล | EP1, 3 | แดงชาด ทอง คราม · แสงอรุณ หมอก |
 | NOPPARAT_GATE | ประตูเมืองนพรัตน์ + ลานประกาศ | EP1 | ผนังขาว ประตูแดงชาด · แดดเช้าจัด |
+| ROMWISAI_THRONE | ท้องพระโรงโรมวิสัย | EP1, 4, 8 | งาช้าง ทอง ลายดอกโสน · แสงกลางวันนุ่ม |
 
 ## 🔒 ภาพ Baseline ที่อนุมัติ (Drive `03_LOCATIONS`)
 - `ROMWISAI_PALACE` → [LOC_ROMWISAI_PALACE_v1.jpg](https://drive.google.com/file/d/1GSrVu41kHvWANb8-rz4vHzv1V8_ZpRNL/view)
@@ -52,6 +53,7 @@
 - `DREAM_GARDEN` → [LOC_DREAM_GARDEN_v1.jpg](https://drive.google.com/file/d/1Hf_gP0-2iysWBZgQ1SGiVBwvQtzg06ls/view)
 - `NOPPARAT_CITY` → [LOC_NOPPARAT_CITY_v2.jpg](https://drive.google.com/file/d/1uGM07nCJD-olf6Rf5w5XwjRirXGjgZ5m/view) (v2: หลังคาแดงชาด ไม่มีต้นโสน)
 - `NOPPARAT_GATE` → [LOC_NOPPARAT_GATE_v2.jpg](https://drive.google.com/file/d/1AbR13NiNwr9-RJuT0V7X3uy_UkqMFIZP/view) (v2: ลบเทพบนฟ้าและต้นโสน)
+- `ROMWISAI_THRONE` → [LOC_ROMWISAI_THRONE_v1.jpg](https://drive.google.com/file/d/1Um1e4yYGfYMuitV1bl6AF8kXihtqk82F/view) (เพิ่มระหว่างทำ SQ04)
 
 > หมายเหตุ: baseline หลายภาพมีกรอบลายไทยติดขอบ — ใช้เป็นภาพอ้างอิงได้ แต่ตอนเจนภาพฉาก/เฟรมวิดีโอ ให้เติม `no decorative border, no frame, full-bleed image` ทุกครั้ง
 

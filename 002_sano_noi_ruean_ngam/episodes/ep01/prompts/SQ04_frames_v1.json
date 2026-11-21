@@ -1,74 +1,94 @@
 [
  {
   "name": "LOC_ROMWISAI_THRONE",
-  "prompt": "Wide cinematic establishing shot, 16:9, no people, no characters, no text, no decorative border, full-bleed. The throne hall of the Romwisai palace: ivory-white and gold lacquered columns carved with sesbania flower vines, murals of sesbania blossoms on cream walls, a gilded throne platform with two thrones side by side under a tiered white parasol, tall windows opening onto sesbania trees and the city, polished teak floor, soft daylight — gentle and warm, unlike the vermilion Nopparat hall. Use the reference only for Romwisai's architecture style and palette.",
+  "prompt": "Wide cinematic establishing shot, 16:9, no people, no characters, no text, no decorative border, full-bleed. The throne hall of the Romwisai palace: ivory-white and gold lacquered columns carved with sesbania flower vines, murals of sesbania blossoms on cream walls, a gilded throne platform with two thrones side by side under a tiered white parasol, tall windows opening onto sesbania trees and the city, polished teak floor, soft daylight — gentle and warm, unlike the vermilion Nopparat hall. Use the reference only for Romwisai's architecture style and palette.\nThai cinematic painterly fairy-tale, epic fantasy illustration with refined visible brushwork,\nancient Thai fairy-tale kingdom, Thai mural and lai rod nam ornamental motifs,\nwarm high-key golden light, palette of sesbania yellow, gold leaf, ivory, jade green and deep indigo,\nexquisitely detailed traditional Thai costumes and architecture, magical glowing accents,\ncinematic composition, 16:9",
   "refs": [
-   "PALACE"
+   "LOC_ROMWISAI_PALACE.jpg"
   ]
  },
  {
   "name": "EP01_SQ04_SH001_v1",
-  "prompt": "Reference images: the dream garden; Princess Sano Noi; the young man (use his exact royal vermilion costume and hair, seen only from behind). Inside a dream: Princess Sano Noi walks slowly along the misty golden path of the dream garden, looking around in wonder; far ahead on the path a young man in a vermilion-red and gold royal tunic stands with his back to her, his face not visible; soft golden haze, floating petals, unreal translucent light.",
+  "prompt": "Cinematic film still, first frame of a video shot, 16:9, no text, no subtitles, no decorative border, no frame, full-bleed image. Kingdom of Romwisai: ivory, gold and sesbania-yellow palette. Keep every referenced character's identical face, hair and costume. Extras have clearly Thai Southeast Asian faces.\nReference images: the dream garden; Princess Sano Noi; the young man (use his exact royal vermilion costume and hair, seen only from behind). Inside a dream: Princess Sano Noi walks slowly along the misty golden path of the dream garden, looking around in wonder; far ahead on the path a young man in a vermilion-red and gold royal tunic stands with his back to her, his face not visible; soft golden haze, floating petals, unreal translucent light.\nThai cinematic painterly fairy-tale, epic fantasy illustration with refined visible brushwork,\nancient Thai fairy-tale kingdom, Thai mural and lai rod nam ornamental motifs,\nwarm high-key golden light, palette of sesbania yellow, gold leaf, ivory, jade green and deep indigo,\nexquisitely detailed traditional Thai costumes and architecture, magical glowing accents,\ncinematic composition, 16:9",
   "refs": [
-   "DREAM",
-   "SANO",
-   "PRINCE"
+   "LOC_DREAM_GARDEN.jpg",
+   "CHR_SANO_PRINCESS_v3.jpg",
+   "CHR_PRINCE_ROYAL_v5.jpg"
   ]
  },
  {
   "name": "EP01_SQ04_SH002_v1",
-  "prompt": "Reference images: the dream garden; Princess Sano Noi; the young man in vermilion (seen from behind / in profile, face mostly hidden). Medium shot in the dream garden: Sano Noi reaches out to touch the young man's shoulder, and her fingers pass through him as if through mist; his figure is becoming translucent and dissolving into golden haze; her expression is startled longing.",
+  "prompt": "Cinematic film still, first frame of a video shot, 16:9, no text, no subtitles, no decorative border, no frame, full-bleed image. Kingdom of Romwisai: ivory, gold and sesbania-yellow palette. Keep every referenced character's identical face, hair and costume. Extras have clearly Thai Southeast Asian faces.\nReference images: the dream garden; Princess Sano Noi; the young man in vermilion (seen from behind / in profile, face mostly hidden). Medium shot in the dream garden: Sano Noi reaches out to touch the young man's shoulder, and her fingers pass through him as if through mist; his figure is becoming translucent and dissolving into golden haze; her expression is startled longing.\nThai cinematic painterly fairy-tale, epic fantasy illustration with refined visible brushwork,\nancient Thai fairy-tale kingdom, Thai mural and lai rod nam ornamental motifs,\nwarm high-key golden light, palette of sesbania yellow, gold leaf, ivory, jade green and deep indigo,\nexquisitely detailed traditional Thai costumes and architecture, magical glowing accents,\ncinematic composition, 16:9",
   "refs": [
-   "DREAM",
-   "SANO",
-   "PRINCE"
+   "LOC_DREAM_GARDEN.jpg",
+   "CHR_SANO_PRINCESS_v3.jpg",
+   "CHR_PRINCE_ROYAL_v5.jpg"
   ]
  },
  {
   "name": "EP01_SQ04_SH003_v1",
-  "prompt": "Reference images: the royal bedchamber (use as Sano Noi's own bedchamber); Princess Sano Noi (same face, but now in a plain ivory sleeping gown with her hair loose, no crown); the enchanted house. Night: Sano Noi sits up suddenly in her canopy bed, startled awake, breathing hard, one hand at her chest; on the small golden table beside the bed the tiny enchanted sesbania-wood house flickers with a pulse of golden light; moonlight through the window.",
+  "prompt": "Cinematic film still, first frame of a video shot, 16:9, no text, no subtitles, no decorative border, no frame, full-bleed image. Kingdom of Romwisai: ivory, gold and sesbania-yellow palette. Keep every referenced character's identical face, hair and costume. Extras have clearly Thai Southeast Asian faces.\nReference images: the royal bedchamber (use as Sano Noi's own bedchamber); Princess Sano Noi (same face, but now in a plain ivory sleeping gown with her hair loose, no crown); the enchanted house. Night: Sano Noi sits up suddenly in her canopy bed, startled awake, breathing hard, one hand at her chest; on the small golden table beside the bed the tiny enchanted sesbania-wood house flickers with a pulse of golden light; moonlight through the window.\nThai cinematic painterly fairy-tale, epic fantasy illustration with refined visible brushwork,\nancient Thai fairy-tale kingdom, Thai mural and lai rod nam ornamental motifs,\nwarm high-key golden light, palette of sesbania yellow, gold leaf, ivory, jade green and deep indigo,\nexquisitely detailed traditional Thai costumes and architecture, magical glowing accents,\ncinematic composition, 16:9",
   "refs": [
-   "BED",
-   "SANO",
-   "HOUSE"
+   "LOC_ROMWISAI_BIRTH_CHAMBER.jpg",
+   "CHR_SANO_PRINCESS_v3.jpg",
+   "LOC_PROP_RUEAN_SANO.jpg"
   ]
  },
  {
   "name": "EP01_SQ04_SH004_v1",
-  "prompt": "Reference images: the Romwisai throne hall; the astrologers (use ONLY the plump kindly old man on the RIGHT with the yellow shawl — he is the Romwisai royal astrologer); King Hatsawichai; Queen Ketsani. Wide shot of the Romwisai throne hall by day: the astrologer kneels before the thrones with his slate horoscope board, face full of pain as he delivers bad news; King Hatsawichai and Queen Ketsani sit on the thrones, stricken; courtiers kneel along both sides exchanging glances.",
+  "prompt": "Cinematic film still, first frame of a video shot, 16:9, no text, no subtitles, no decorative border, no frame, full-bleed image. Kingdom of Romwisai: ivory, gold and sesbania-yellow palette. Keep every referenced character's identical face, hair and costume. Extras have clearly Thai Southeast Asian faces.\nReference images: the Romwisai throne hall; the astrologers (use ONLY the plump kindly old man on the RIGHT with the yellow shawl — he is the Romwisai royal astrologer); King Hatsawichai; Queen Ketsani. Wide shot of the Romwisai throne hall by day: the astrologer kneels before the thrones with his slate horoscope board, face full of pain as he delivers bad news; King Hatsawichai and Queen Ketsani sit on the thrones, stricken; courtiers kneel along both sides exchanging glances.\nThai cinematic painterly fairy-tale, epic fantasy illustration with refined visible brushwork,\nancient Thai fairy-tale kingdom, Thai mural and lai rod nam ornamental motifs,\nwarm high-key golden light, palette of sesbania yellow, gold leaf, ivory, jade green and deep indigo,\nexquisitely detailed traditional Thai costumes and architecture, magical glowing accents,\ncinematic composition, 16:9",
   "refs": [
-   "THRONE",
-   "ORACLE",
-   "KING",
-   "QUEEN"
+   "LOC_ROMWISAI_THRONE.png",
+   "CHR_ORACLES.jpg",
+   "CHR_HATSAWICHAI.jpg",
+   "CHR_KETSANI.jpg"
   ]
  },
  {
   "name": "EP01_SQ04_SH005_v1",
-  "prompt": "Reference images: the Romwisai throne hall; the astrologers (use ONLY the plump old man on the RIGHT with the yellow shawl); King Hatsawichai. The astrologer bows his forehead to the floor in apology; behind him courtiers whisper to each other behind their hands; in the foreground King Hatsawichai's hand clenches tightly on the arm of his throne, knuckles pale.",
+  "prompt": "Cinematic film still, first frame of a video shot, 16:9, no text, no subtitles, no decorative border, no frame, full-bleed image. Kingdom of Romwisai: ivory, gold and sesbania-yellow palette. Keep every referenced character's identical face, hair and costume. Extras have clearly Thai Southeast Asian faces.\nReference images: the Romwisai throne hall; the astrologers (use ONLY the plump old man on the RIGHT with the yellow shawl); King Hatsawichai. The astrologer bows his forehead to the floor in apology; behind him courtiers whisper to each other behind their hands; in the foreground King Hatsawichai's hand clenches tightly on the arm of his throne, knuckles pale.\nThai cinematic painterly fairy-tale, epic fantasy illustration with refined visible brushwork,\nancient Thai fairy-tale kingdom, Thai mural and lai rod nam ornamental motifs,\nwarm high-key golden light, palette of sesbania yellow, gold leaf, ivory, jade green and deep indigo,\nexquisitely detailed traditional Thai costumes and architecture, magical glowing accents,\ncinematic composition, 16:9",
   "refs": [
-   "THRONE",
-   "ORACLE",
-   "KING"
+   "LOC_ROMWISAI_THRONE.png",
+   "CHR_ORACLES.jpg",
+   "CHR_HATSAWICHAI.jpg"
   ]
  },
  {
   "name": "EP01_SQ04_SH006_v1",
-  "prompt": "Reference images: the Romwisai throne hall; Queen Ketsani; Princess Sano Noi. Medium close shot: Queen Ketsani has stepped down from the throne and grips both of her daughter's hands, shaking her head, eyes brimming with tears; Sano Noi faces her mother, calm and sad.",
+  "prompt": "Cinematic film still, first frame of a video shot, 16:9, no text, no subtitles, no decorative border, no frame, full-bleed image. Kingdom of Romwisai: ivory, gold and sesbania-yellow palette. Keep every referenced character's identical face, hair and costume. Extras have clearly Thai Southeast Asian faces.\nReference images: the Romwisai throne hall; Queen Ketsani; Princess Sano Noi. Medium close shot: Queen Ketsani has stepped down from the throne and grips both of her daughter's hands, shaking her head, eyes brimming with tears; Sano Noi faces her mother, calm and sad.\nThai cinematic painterly fairy-tale, epic fantasy illustration with refined visible brushwork,\nancient Thai fairy-tale kingdom, Thai mural and lai rod nam ornamental motifs,\nwarm high-key golden light, palette of sesbania yellow, gold leaf, ivory, jade green and deep indigo,\nexquisitely detailed traditional Thai costumes and architecture, magical glowing accents,\ncinematic composition, 16:9",
   "refs": [
-   "THRONE",
-   "QUEEN",
-   "SANO"
+   "LOC_ROMWISAI_THRONE.png",
+   "CHR_KETSANI.jpg",
+   "CHR_SANO_PRINCESS_v3.jpg"
   ]
  },
  {
   "name": "EP01_SQ04_SH007_v1",
-  "prompt": "Reference images: the Romwisai throne hall; Princess Sano Noi; King Hatsawichai; Queen Ketsani. Sano Noi stands by a tall window of the throne hall, looking out at the townspeople and sesbania trees of the city below, her parents blurred in the background behind her; her face turns resolute as she makes her own decision; soft daylight on her face.",
+  "prompt": "Cinematic film still, first frame of a video shot, 16:9, no text, no subtitles, no decorative border, no frame, full-bleed image. Kingdom of Romwisai: ivory, gold and sesbania-yellow palette. Keep every referenced character's identical face, hair and costume. Extras have clearly Thai Southeast Asian faces.\nReference images: the Romwisai throne hall; Princess Sano Noi; King Hatsawichai; Queen Ketsani. Sano Noi stands by a tall window of the throne hall, looking out at the townspeople and sesbania trees of the city below, her parents blurred in the background behind her; her face turns resolute as she makes her own decision; soft daylight on her face.\nThai cinematic painterly fairy-tale, epic fantasy illustration with refined visible brushwork,\nancient Thai fairy-tale kingdom, Thai mural and lai rod nam ornamental motifs,\nwarm high-key golden light, palette of sesbania yellow, gold leaf, ivory, jade green and deep indigo,\nexquisitely detailed traditional Thai costumes and architecture, magical glowing accents,\ncinematic composition, 16:9",
   "refs": [
-   "THRONE",
-   "SANO",
-   "KING",
-   "QUEEN"
+   "LOC_ROMWISAI_THRONE.png",
+   "CHR_SANO_PRINCESS_v3.jpg",
+   "CHR_HATSAWICHAI.jpg",
+   "CHR_KETSANI.jpg"
+  ]
+ },
+ {
+  "name": "EP01_SQ04_SH004_v2",
+  "prompt": "Cinematic film still, first frame of a video shot, 16:9, no text, no subtitles, no decorative border, no frame, full-bleed image. Kingdom of Romwisai: ivory, gold and sesbania-yellow palette. Keep every referenced character's identical face, hair and costume. Extras have clearly Thai Southeast Asian faces.\nReference images: the Romwisai throne hall; the astrologers (use ONLY the plump kindly old man on the RIGHT with the yellow shawl — he is the Romwisai royal astrologer); King Hatsawichai; Queen Ketsani. Wide shot of the Romwisai throne hall by day: the astrologer kneels before the thrones with his slate horoscope board, face full of pain as he delivers bad news; King Hatsawichai (EXACTLY as in his reference: round kind face, grey-streaked hair and short goatee, wearing sesbania-YELLOW and gold Romwisai robes and a gold crown with sesbania flowers — NOT red, NOT vermilion) and Queen Ketsani sit on the thrones, stricken; courtiers kneel along both sides exchanging glances.\nThai cinematic painterly fairy-tale, epic fantasy illustration with refined visible brushwork,\nancient Thai fairy-tale kingdom, Thai mural and lai rod nam ornamental motifs,\nwarm high-key golden light, palette of sesbania yellow, gold leaf, ivory, jade green and deep indigo,\nexquisitely detailed traditional Thai costumes and architecture, magical glowing accents,\ncinematic composition, 16:9",
+  "refs": [
+   "LOC_ROMWISAI_THRONE.png",
+   "CHR_ORACLES.jpg",
+   "CHR_HATSAWICHAI.jpg",
+   "CHR_KETSANI.jpg"
+  ]
+ },
+ {
+  "name": "EP01_SQ04_SH007_v2",
+  "prompt": "Cinematic film still, first frame of a video shot, 16:9, no text, no subtitles, no decorative border, no frame, full-bleed image. Kingdom of Romwisai: ivory, gold and sesbania-yellow palette. Keep every referenced character's identical face, hair and costume. Extras have clearly Thai Southeast Asian faces.\nReference images: the Romwisai throne hall; Princess Sano Noi; King Hatsawichai; Queen Ketsani. Sano Noi stands by a tall window of the throne hall, looking out at the townspeople and sesbania trees of the city below, her parents King Hatsawichai and Queen Ketsani stand blurred in the background behind her looking at her with grief — downcast, sorrowful, the queen wiping tears, NOT smiling; her face turns resolute as she makes her own decision; soft daylight on her face.\nThai cinematic painterly fairy-tale, epic fantasy illustration with refined visible brushwork,\nancient Thai fairy-tale kingdom, Thai mural and lai rod nam ornamental motifs,\nwarm high-key golden light, palette of sesbania yellow, gold leaf, ivory, jade green and deep indigo,\nexquisitely detailed traditional Thai costumes and architecture, magical glowing accents,\ncinematic composition, 16:9",
+  "refs": [
+   "LOC_ROMWISAI_THRONE.png",
+   "CHR_SANO_PRINCESS_v3.jpg",
+   "CHR_HATSAWICHAI.jpg",
+   "CHR_KETSANI.jpg"
   ]
  }
 ]
