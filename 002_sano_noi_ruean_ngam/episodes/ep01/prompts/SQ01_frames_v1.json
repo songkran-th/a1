@@ -1,0 +1,42 @@
+[
+ {
+  "name": "EP01_SQ01_SH001_v1",
+  "prompt": "Reference images: the first is Prince Wichit Chinda in hunting attire — keep his identical face, hair, golden headband, deep indigo tunic, red sash, bow, quiver and golden sword exactly; the second is the approved forest location — match its trees, mist, light and palette. Cinematic film still, first frame of a video shot, 16:9, no text, no subtitles, no decorative border, no frame, full-bleed image, no yellow sesbania flowers. Companion nobles (if present) are young Thai men with clearly Thai Southeast Asian faces in simpler dark green and brown hunting tunics, no crowns.\nWide shot, early morning in the ancient forest: soft mist and golden light shafts through giant fig trees; Prince Wichit Chinda rides a brown horse along the forest path at a gentle canter, two companion nobles on horses behind him, birds rising from the canopy. The prince is clearly the leader, centered, small in the vast forest.\nThai cinematic painterly fairy-tale, epic fantasy illustration with refined visible brushwork,\nancient Thai fairy-tale kingdom, Thai mural and lai rod nam ornamental motifs,\nwarm high-key golden light, palette of sesbania yellow, gold leaf, ivory, jade green and deep indigo,\nexquisitely detailed traditional Thai costumes and architecture, magical glowing accents,\ncinematic composition, 16:9",
+  "refs": [
+   "CHR_PRINCE_HUNT",
+   "LOC_FOREST"
+  ]
+ },
+ {
+  "name": "EP01_SQ01_SH002_v1",
+  "prompt": "Reference images: the first is Prince Wichit Chinda in hunting attire — keep his identical face, hair, golden headband, deep indigo tunic, red sash, bow, quiver and golden sword exactly; the second is the approved forest location — match its trees, mist, light and palette. Cinematic film still, first frame of a video shot, 16:9, no text, no subtitles, no decorative border, no frame, full-bleed image, no yellow sesbania flowers. Companion nobles (if present) are young Thai men with clearly Thai Southeast Asian faces in simpler dark green and brown hunting tunics, no crowns.\nMedium shot from behind and to the side of the prince: he stands on the forest floor drawing his bow, arrow aimed at a spotted deer that is leaping into a dense thicket at the edge of the frame; leaves frozen, the air unnaturally still, light dimming slightly.\nThai cinematic painterly fairy-tale, epic fantasy illustration with refined visible brushwork,\nancient Thai fairy-tale kingdom, Thai mural and lai rod nam ornamental motifs,\nwarm high-key golden light, palette of sesbania yellow, gold leaf, ivory, jade green and deep indigo,\nexquisitely detailed traditional Thai costumes and architecture, magical glowing accents,\ncinematic composition, 16:9",
+  "refs": [
+   "CHR_PRINCE_HUNT",
+   "LOC_FOREST"
+  ]
+ },
+ {
+  "name": "EP01_SQ01_SH003_v1",
+  "prompt": "Reference images: the first is Prince Wichit Chinda in hunting attire — keep his identical face, hair, golden headband, deep indigo tunic, red sash, bow, quiver and golden sword exactly; the second is the approved forest location — match its trees, mist, light and palette. Cinematic film still, first frame of a video shot, 16:9, no text, no subtitles, no decorative border, no frame, full-bleed image, no yellow sesbania flowers. Companion nobles (if present) are young Thai men with clearly Thai Southeast Asian faces in simpler dark green and brown hunting tunics, no crowns.\nThe prince pushes aside large leaves and stops, looking down in alarm: in the dark mud before him are huge curved scale imprints that shimmer gold-green; a thin green mist rises from the ground, and far behind the trees the vague silhouette of an enormous coiling naga serpent body is barely visible through the mist (only a shadowy hint, no clear head). Ominous, mysterious, still painterly and beautiful.\nThai cinematic painterly fairy-tale, epic fantasy illustration with refined visible brushwork,\nancient Thai fairy-tale kingdom, Thai mural and lai rod nam ornamental motifs,\nwarm high-key golden light, palette of sesbania yellow, gold leaf, ivory, jade green and deep indigo,\nexquisitely detailed traditional Thai costumes and architecture, magical glowing accents,\ncinematic composition, 16:9",
+  "refs": [
+   "CHR_PRINCE_HUNT",
+   "LOC_FOREST"
+  ]
+ },
+ {
+  "name": "EP01_SQ01_SH004_v1",
+  "prompt": "Reference images: the first is Prince Wichit Chinda in hunting attire — keep his identical face, hair, golden headband, deep indigo tunic, red sash, bow, quiver and golden sword exactly; the second is the approved forest location — match its trees, mist, light and palette. Cinematic film still, first frame of a video shot, 16:9, no text, no subtitles, no decorative border, no frame, full-bleed image, no yellow sesbania flowers. Companion nobles (if present) are young Thai men with clearly Thai Southeast Asian faces in simpler dark green and brown hunting tunics, no crowns.\nClose medium shot: a curling green venom mist wraps around the prince's right hand and wrist; dark purple veins spread from the back of his right hand up his forearm; he falls to one knee, face contorted in pain and shock, bow dropped beside him on the moss.\nThai cinematic painterly fairy-tale, epic fantasy illustration with refined visible brushwork,\nancient Thai fairy-tale kingdom, Thai mural and lai rod nam ornamental motifs,\nwarm high-key golden light, palette of sesbania yellow, gold leaf, ivory, jade green and deep indigo,\nexquisitely detailed traditional Thai costumes and architecture, magical glowing accents,\ncinematic composition, 16:9",
+  "refs": [
+   "CHR_PRINCE_HUNT",
+   "LOC_FOREST"
+  ]
+ },
+ {
+  "name": "EP01_SQ01_SH005_v1",
+  "prompt": "Reference images: the first is Prince Wichit Chinda in hunting attire — keep his identical face, hair, golden headband, deep indigo tunic, red sash, bow, quiver and golden sword exactly; the second is the approved forest location — match its trees, mist, light and palette. Cinematic film still, first frame of a video shot, 16:9, no text, no subtitles, no decorative border, no frame, full-bleed image, no yellow sesbania flowers. Companion nobles (if present) are young Thai men with clearly Thai Southeast Asian faces in simpler dark green and brown hunting tunics, no crowns.\nA companion noble kneels on the mossy forest floor holding the motionless prince in his arms; the prince's eyes are closed, face pale, purple veins visible on his right hand hanging limp; the bow and golden headband lie in the moss; a single shaft of light falls on them, mist drifting. Grief and stillness.\nThai cinematic painterly fairy-tale, epic fantasy illustration with refined visible brushwork,\nancient Thai fairy-tale kingdom, Thai mural and lai rod nam ornamental motifs,\nwarm high-key golden light, palette of sesbania yellow, gold leaf, ivory, jade green and deep indigo,\nexquisitely detailed traditional Thai costumes and architecture, magical glowing accents,\ncinematic composition, 16:9",
+  "refs": [
+   "CHR_PRINCE_HUNT",
+   "LOC_FOREST"
+  ]
+ }
+]

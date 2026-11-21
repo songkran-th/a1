@@ -46,4 +46,5 @@
 - 2026-11-21: EP1 Master Shot Breakdown v0.1 (รูปแบบเดียวกับสยามสัมปัตติ, มีผู้บรรยาย, 8 ซีเควนซ์ 51 ช็อต, 10:43 นาที) — `episodes/ep01/` · Drive [EP01](https://drive.google.com/drive/folders/1-zn-WRrtb_tttJqBD_Y0BygL_e1Y76nH)
 - 2026-11-21: EP1 v0.2 — ผู้บรรยายแบบเบา (VO 5 จุด) เสียงหญิงเล่านิทาน (`narrator.md`)
 - 2026-11-21: ✅ อนุมัติลำดับเวลา EP1 · ออกแบบเสียงผู้บรรยาย "Sano Noi Narrator" (`fDxR49QfNQOv3db3QlJY`) · ยืนยันตารางคำอ่าน (`narrator.md`) · 🔒 เพิ่มสถานที่ EP1 อีก 4 แห่ง (ห้องประสูติ สวนในฝัน เมือง/ประตูนพรัตน์ v2)
-- **ขั้นต่อไป:** เจนภาพต้นทาง EP1 SQ01 (5 ช็อต) → ตรวจ → motion (Grok/MiniMax ผ่าน KIE) → เจน baseline สถานที่ที่ขาด (ห้องประสูติ สวนในฝัน เมือง/ประตูนพรัตน์) → เจนภาพต้นทาง SQ01 (Visual Lock) → ลุคอื่น (image-to-image) + ตัวละครรอง → อนุมัติ (Visual Lock) → ลุคอื่น + ตัวละครรอง → location sheet → character sheet + location sheet (gpt-image 2.6) → บท EP1
+- 2026-11-21: เจนภาพต้นทาง EP1 SQ01 SH001–005 v1 (~61 เครดิต) อัปขึ้น Drive `EP01/`
+- **ขั้นต่อไป:** เจ้าของงานตรวจ SQ01 → motion (Grok/MiniMax ผ่าน KIE) หรือเจนภาพต้นทาง SQ02 ต่อ → เจน baseline สถานที่ที่ขาด (ห้องประสูติ สวนในฝัน เมือง/ประตูนพรัตน์) → เจนภาพต้นทาง SQ01 (Visual Lock) → ลุคอื่น (image-to-image) + ตัวละครรอง → อนุมัติ (Visual Lock) → ลุคอื่น + ตัวละครรอง → location sheet → character sheet + location sheet (gpt-image 2.6) → บท EP1
