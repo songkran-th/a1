@@ -25,6 +25,10 @@
 | WILAI_HOUSE | เรือนเศรษฐีวิไล | EP7–8 | ไม้สักขัดเงา ทองฉูดฉาด ม่วง · แสงบ่าย |
 | RUEAN_SANO_INTERIOR | ภายในเรือนไม้โสน | EP4 | ทองเรืองแสง ดอกโสนลอย · แสงจากวัตถุเอง |
 | PROP_RUEAN_SANO | เรือนไม้โสน (prop turnaround) | EP1, 3, 4, 6, 8 | ดู `ruean-sano.md` |
+| ROMWISAI_BIRTH_CHAMBER | ห้องประสูติ วังโรมวิสัย | EP1 | งาช้าง ทอง · แสงเทียนอบอุ่น |
+| DREAM_GARDEN | สวนในความฝันของโสนน้อย | EP1, EP8? | หมอกทอง ดอกโสน · แสงกระจายไม่มีดวงอาทิตย์ |
+| NOPPARAT_CITY | เมืองนพรัตน์มองจากเนินไกล | EP1, 3 | แดงชาด ทอง คราม · แสงอรุณ หมอก |
+| NOPPARAT_GATE | ประตูเมืองนพรัตน์ + ลานประกาศ | EP1 | ผนังขาว ประตูแดงชาด · แดดเช้าจัด |
 
 ## 🔒 ภาพ Baseline ที่อนุมัติ (Drive `03_LOCATIONS`)
 - `ROMWISAI_PALACE` → [LOC_ROMWISAI_PALACE_v1.jpg](https://drive.google.com/file/d/1GSrVu41kHvWANb8-rz4vHzv1V8_ZpRNL/view)
@@ -132,3 +136,25 @@ The impossible interior of a tiny enchanted Thai house, far larger inside than o
 
 ### PROP_RUEAN_SANO
 ใช้ prompt หลักใน `ruean-sano.md` + `Prop design turnaround: front, three-quarter and side views of the house, plus one view resting in a woman's open palms, plain warm ivory paper background, no text.`
+
+## เพิ่มเติม (EP1)
+
+### ROMWISAI_BIRTH_CHAMBER
+```
+The royal birth chamber inside the Romwisai palace at night: an ivory and gold carved Thai canopy bed with sheer ivory curtains, sesbania flower motifs carved on teak walls and lacquered gold pillars, rows of candles and oil lamps, a small golden side table beside the bed where a tiny glowing house will appear, warm intimate candlelight, gentle and sacred. Use the reference image only for the architecture style and palette of the Romwisai palace.
+```
+
+### DREAM_GARDEN
+```
+A dreamlike garden inside a princess's dream: soft golden mist drifting between flowering yellow sesbania trees and pale lotus ponds, a winding stone path disappearing into glowing haze, floating petals suspended in the air, everything slightly translucent and ethereal, soft diffused light without a visible sun, beautiful but unreal.
+```
+
+### NOPPARAT_CITY
+```
+The kingdom of Nopparat seen from a distant hill at sunrise: a walled city with vermilion-red and gold multi-tiered palace roofs and tall spires rising above the walls, deep indigo accents, a river winding past the city, morning mist over rice fields in the foreground, grand and imposing. Use the reference image only for the architecture style and vermilion/gold/indigo palette of Nopparat.
+```
+
+### NOPPARAT_GATE
+```
+The main city gate of Nopparat in the morning: a massive whitewashed brick wall with a tall vermilion-red and gold gate tower in Thai style, heavy teak gate doors open, a wide dusty plaza in front with market stalls, a large royal proclamation scroll mounted on a carved wooden board beside the gate, a big bronze gong on a stand, bright daylight. Use the reference image only for the architecture style and palette of Nopparat.
+```
