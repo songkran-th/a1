@@ -9,7 +9,7 @@
 - ชายไทย ใบหน้าเหลี่ยมเล็กน้อย กรามชัด ดวงตาคมสีน้ำตาลเข้ม คิ้วหนาตรง จมูกโด่ง
 - ผิวสีน้ำผึ้งเข้ม · ผมดำ ทรงผมไทยโบราณ (ทรงมหาดไทย/ผมยาวเกล้าตามลุค)
 - **รอยแผลเป็นจางที่สันมือขวา** 🔵 จากพิษพญานาค (ติดตัวหลังฟื้น — ยืนยันว่าเคยตายและฟื้นจริง)
-- สูง ไหล่กว้าง รูปร่างนักรบ
+- 🔵 (v5) รูปร่างสูงโปร่ง สง่าแบบนักรำโขน/ละคร ไม่บึกบึน — หน้าเด็ก ตาชั้นเดียว จมูกเล็กสันต่ำ
 
 ## ลุค
 | รหัส | ลุค | ตอน | รายละเอียด |
@@ -24,12 +24,13 @@
 ```
 Character design turnaround sheet of a young Thai prince, 22 years old, three views (front, three-quarter, back)
 plus three facial expression close-ups (confident smile, anger, remorse), plain warm ivory background.
-Authentic native Thai man with typical Thai facial features: gentle low nose bridge with a soft rounded tip, monolid or subtle low-crease eyes, warm golden-tan Thai skin, handsome classic Thai drama actor look; NOT Eurasian, NOT mixed-race (luk khrueng), NOT Western, NOT South Asian features.
-Slightly square face, defined jaw, sharp dark-brown eyes, thick straight brows, straight but gently low Thai nose bridge,
-deep honey skin, black hair in a traditional ancient Thai style, tall broad-shouldered warrior build,
-faint scar across the back of his right hand.
+He looks like a typical young man from Bangkok or Ayutthaya: youthful East-Southeast Asian face, smooth oval-to-round face shape,
+small soft nose with a low bridge, narrow single-eyelid almond eyes, straight dark brows, small mouth, light-to-medium warm tan skin,
+clean-shaven, the refined graceful look of a Thai classical dance (khon / lakhon) performer rather than a bodybuilder.
+Slim athletic build, upright noble posture, short black hair under the headdress, faint scar across the back of his right hand.
 Wearing a vermilion-red silk long-sleeve tunic embroidered with gold, deep indigo gold-brocade chong kraben,
-gold sangwan crossed chains, gold chest ornament, gold armlets, tall gold royal headdress.
+gold sangwan crossed chains, gold chest ornament, gold armlets, tall gold royal chada headdress.
+Avoid: Western, Eurasian, mixed-race, Latino, Polynesian or South Asian features, high nose bridge, deep-set eyes, heavy jaw, muscular bulk.
 Plain warm ivory paper background only, no scenery, no architecture.
 Consistent identity across all views, no text, no labels.
 ```
