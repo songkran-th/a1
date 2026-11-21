@@ -27,3 +27,4 @@
 ## หมายเหตุ v2 (2026-11-21)
 - v1: ใบหน้าโสนน้อย/กุลาออกตะวันตก, โสนน้อยใส่ส้นสูง → v2 เพิ่ม `distinctly Thai Southeast Asian facial features`, ห้ามส้นสูง, บังคับพื้นหลังเรียบ
 - ทุก prompt ตัวละครต่อจากนี้ใส่ `distinctly Thai Southeast Asian facial features` และ `Plain warm ivory paper background only, no scenery`
+- v3: v2 ยังออกลูกครึ่ง → ใส่คำบรรยายหน้าไทยละเอียด (หน้ากลมนุ่ม สันจมูกต่ำปลายมน ตาชั้นเดียว/สองชั้นจาง ผิวแทนทอง) + ห้าม Eurasian/ลูกครึ่ง/ตะวันตก/เอเชียใต้ — ใช้กับ prompt ตัวละครทุกตัวต่อจากนี้

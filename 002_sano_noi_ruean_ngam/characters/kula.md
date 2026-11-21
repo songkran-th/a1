@@ -21,9 +21,10 @@
 
 ## Prompt — Master Turnaround (KULA_SERVANT)
 ```
-Character design turnaround sheet of a young Thai village woman, about 20 years old, distinctly Thai Southeast Asian facial features, three views (front, three-quarter, back)
+Character design turnaround sheet of a young Thai village woman, about 20 years old, three views (front, three-quarter, back)
 plus three facial expression close-ups (grateful smile, sly sideways glance, envy), plain warm ivory background.
-Heart-shaped face, high cheekbones, large round dark-brown eyes with slightly upturned outer corners,
+Authentic native Thai woman with typical Thai facial features: softly rounded face, gentle low nose bridge with a soft rounded tip, monolid or subtle low-crease eyes, warm golden-tan Thai skin, soft natural Thai beauty like a classic Thai drama actress; NOT Eurasian, NOT mixed-race (luk khrueng), NOT Western, NOT South Asian features.
+Heart-shaped face, high cheekbones, bright dark-brown eyes with slightly upturned outer corners,
 thick sharply arched brows, thin lips with a habitual slight smirk, honey skin, small mole under her left eye,
 thick slightly wavy black hair in a loose bun with stray strands, lively agile build.
 Wearing a faded olive-green cotton pha sin and a reddish-brown cotton sabai, no jewelry, barefoot.

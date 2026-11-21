@@ -24,11 +24,13 @@
 ```
 Character design turnaround sheet of a young Thai prince, 22 years old, three views (front, three-quarter, back)
 plus three facial expression close-ups (confident smile, anger, remorse), plain warm ivory background.
-Slightly square face, defined jaw, sharp dark-brown eyes, thick straight brows, high nose bridge,
+Authentic native Thai man with typical Thai facial features: gentle low nose bridge with a soft rounded tip, monolid or subtle low-crease eyes, warm golden-tan Thai skin, handsome classic Thai drama actor look; NOT Eurasian, NOT mixed-race (luk khrueng), NOT Western, NOT South Asian features.
+Slightly square face, defined jaw, sharp dark-brown eyes, thick straight brows, straight but gently low Thai nose bridge,
 deep honey skin, black hair in a traditional ancient Thai style, tall broad-shouldered warrior build,
 faint scar across the back of his right hand.
 Wearing a vermilion-red silk long-sleeve tunic embroidered with gold, deep indigo gold-brocade chong kraben,
 gold sangwan crossed chains, gold chest ornament, gold armlets, tall gold royal headdress.
+Plain warm ivory paper background only, no scenery, no architecture.
 Consistent identity across all views, no text, no labels.
 ```
 **+ Style Base** · **16:9**

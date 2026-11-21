@@ -24,9 +24,10 @@
 
 ## Prompt — Master Turnaround (SANO_PRINCESS)
 ```
-Character design turnaround sheet of a young Thai princess, 18 years old, distinctly Thai Southeast Asian facial features, three views (front, three-quarter, back)
+Character design turnaround sheet of a young Thai princess, 18 years old, three views (front, three-quarter, back)
 plus three facial expression close-ups (gentle smile, quiet determination, sorrow), plain warm ivory background.
-Oval face, long gentle dark-brown almond eyes with a resolute gaze, thin arched brows, small nose, soft full lips,
+Authentic native Thai woman with typical Thai facial features: softly rounded face, gentle low nose bridge with a soft rounded tip, monolid or subtle low-crease eyes, warm golden-tan Thai skin, soft natural Thai beauty like a classic Thai drama actress; NOT Eurasian, NOT mixed-race (luk khrueng), NOT Western, NOT South Asian features.
+Oval face with soft rounded cheeks, long gentle dark-brown eyes with a resolute gaze, thin arched brows, small nose, soft full lips,
 light honey skin, long black hair in a high traditional Thai topknot, slender graceful build, upright posture,
 small faint golden sesbania-flower birthmark on her left wrist.
 Wearing a sesbania-yellow silk sabai embroidered with gold thread, ivory brocade pha nung woven with sesbania flower motifs,
