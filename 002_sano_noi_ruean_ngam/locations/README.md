@@ -48,6 +48,10 @@
 - `WILAI_HOUSE` → [LOC_WILAI_HOUSE_v1.jpg](https://drive.google.com/file/d/1Zry00edNQtkN_8tf2TWxRwSxfLo_uCJ1/view)
 - `RUEAN_SANO_INTERIOR` → [LOC_RUEAN_SANO_INTERIOR_v1.jpg](https://drive.google.com/file/d/1BY3ZuEYjruWK3S3_SRYF22amKUkTt3in/view)
 - `PROP_RUEAN_SANO` → [LOC_PROP_RUEAN_SANO_v1.jpg](https://drive.google.com/file/d/1GmQWe0-NlXHWTKsVwzasyJqc0dIvb6UR/view)
+- `ROMWISAI_BIRTH_CHAMBER` → [LOC_ROMWISAI_BIRTH_CHAMBER_v1.jpg](https://drive.google.com/file/d/1EF865eg1Eset214EYvo3n86Dfy0Hazpw/view)
+- `DREAM_GARDEN` → [LOC_DREAM_GARDEN_v1.jpg](https://drive.google.com/file/d/1Hf_gP0-2iysWBZgQ1SGiVBwvQtzg06ls/view)
+- `NOPPARAT_CITY` → [LOC_NOPPARAT_CITY_v2.jpg](https://drive.google.com/file/d/1uGM07nCJD-olf6Rf5w5XwjRirXGjgZ5m/view) (v2: หลังคาแดงชาด ไม่มีต้นโสน)
+- `NOPPARAT_GATE` → [LOC_NOPPARAT_GATE_v2.jpg](https://drive.google.com/file/d/1AbR13NiNwr9-RJuT0V7X3uy_UkqMFIZP/view) (v2: ลบเทพบนฟ้าและต้นโสน)
 
 > หมายเหตุ: baseline หลายภาพมีกรอบลายไทยติดขอบ — ใช้เป็นภาพอ้างอิงได้ แต่ตอนเจนภาพฉาก/เฟรมวิดีโอ ให้เติม `no decorative border, no frame, full-bleed image` ทุกครั้ง
 
@@ -158,3 +162,5 @@ The kingdom of Nopparat seen from a distant hill at sunrise: a walled city with 
 ```
 The main city gate of Nopparat in the morning: a massive whitewashed brick wall with a tall vermilion-red and gold gate tower in Thai style, heavy teak gate doors open, a wide dusty plaza in front with market stalls, a large royal proclamation scroll mounted on a carved wooden board beside the gate, a big bronze gong on a stand, bright daylight. Use the reference image only for the architecture style and palette of Nopparat.
 ```
+
+> กฎเพิ่ม: **ดอกโสนสีเหลืองเป็นสัญลักษณ์ของโรมวิสัยเท่านั้น** — ฉากนพรัตน์และที่อื่นให้ใส่ `No yellow sesbania flowers or trees` (ยกเว้นฉากที่เกี่ยวกับเรือน/โสนน้อยโดยตรง)
