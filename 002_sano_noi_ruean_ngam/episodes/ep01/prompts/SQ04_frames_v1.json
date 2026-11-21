@@ -1,0 +1,74 @@
+[
+ {
+  "name": "LOC_ROMWISAI_THRONE",
+  "prompt": "Wide cinematic establishing shot, 16:9, no people, no characters, no text, no decorative border, full-bleed. The throne hall of the Romwisai palace: ivory-white and gold lacquered columns carved with sesbania flower vines, murals of sesbania blossoms on cream walls, a gilded throne platform with two thrones side by side under a tiered white parasol, tall windows opening onto sesbania trees and the city, polished teak floor, soft daylight — gentle and warm, unlike the vermilion Nopparat hall. Use the reference only for Romwisai's architecture style and palette.",
+  "refs": [
+   "PALACE"
+  ]
+ },
+ {
+  "name": "EP01_SQ04_SH001_v1",
+  "prompt": "Reference images: the dream garden; Princess Sano Noi; the young man (use his exact royal vermilion costume and hair, seen only from behind). Inside a dream: Princess Sano Noi walks slowly along the misty golden path of the dream garden, looking around in wonder; far ahead on the path a young man in a vermilion-red and gold royal tunic stands with his back to her, his face not visible; soft golden haze, floating petals, unreal translucent light.",
+  "refs": [
+   "DREAM",
+   "SANO",
+   "PRINCE"
+  ]
+ },
+ {
+  "name": "EP01_SQ04_SH002_v1",
+  "prompt": "Reference images: the dream garden; Princess Sano Noi; the young man in vermilion (seen from behind / in profile, face mostly hidden). Medium shot in the dream garden: Sano Noi reaches out to touch the young man's shoulder, and her fingers pass through him as if through mist; his figure is becoming translucent and dissolving into golden haze; her expression is startled longing.",
+  "refs": [
+   "DREAM",
+   "SANO",
+   "PRINCE"
+  ]
+ },
+ {
+  "name": "EP01_SQ04_SH003_v1",
+  "prompt": "Reference images: the royal bedchamber (use as Sano Noi's own bedchamber); Princess Sano Noi (same face, but now in a plain ivory sleeping gown with her hair loose, no crown); the enchanted house. Night: Sano Noi sits up suddenly in her canopy bed, startled awake, breathing hard, one hand at her chest; on the small golden table beside the bed the tiny enchanted sesbania-wood house flickers with a pulse of golden light; moonlight through the window.",
+  "refs": [
+   "BED",
+   "SANO",
+   "HOUSE"
+  ]
+ },
+ {
+  "name": "EP01_SQ04_SH004_v1",
+  "prompt": "Reference images: the Romwisai throne hall; the astrologers (use ONLY the plump kindly old man on the RIGHT with the yellow shawl — he is the Romwisai royal astrologer); King Hatsawichai; Queen Ketsani. Wide shot of the Romwisai throne hall by day: the astrologer kneels before the thrones with his slate horoscope board, face full of pain as he delivers bad news; King Hatsawichai and Queen Ketsani sit on the thrones, stricken; courtiers kneel along both sides exchanging glances.",
+  "refs": [
+   "THRONE",
+   "ORACLE",
+   "KING",
+   "QUEEN"
+  ]
+ },
+ {
+  "name": "EP01_SQ04_SH005_v1",
+  "prompt": "Reference images: the Romwisai throne hall; the astrologers (use ONLY the plump old man on the RIGHT with the yellow shawl); King Hatsawichai. The astrologer bows his forehead to the floor in apology; behind him courtiers whisper to each other behind their hands; in the foreground King Hatsawichai's hand clenches tightly on the arm of his throne, knuckles pale.",
+  "refs": [
+   "THRONE",
+   "ORACLE",
+   "KING"
+  ]
+ },
+ {
+  "name": "EP01_SQ04_SH006_v1",
+  "prompt": "Reference images: the Romwisai throne hall; Queen Ketsani; Princess Sano Noi. Medium close shot: Queen Ketsani has stepped down from the throne and grips both of her daughter's hands, shaking her head, eyes brimming with tears; Sano Noi faces her mother, calm and sad.",
+  "refs": [
+   "THRONE",
+   "QUEEN",
+   "SANO"
+  ]
+ },
+ {
+  "name": "EP01_SQ04_SH007_v1",
+  "prompt": "Reference images: the Romwisai throne hall; Princess Sano Noi; King Hatsawichai; Queen Ketsani. Sano Noi stands by a tall window of the throne hall, looking out at the townspeople and sesbania trees of the city below, her parents blurred in the background behind her; her face turns resolute as she makes her own decision; soft daylight on her face.",
+  "refs": [
+   "THRONE",
+   "SANO",
+   "KING",
+   "QUEEN"
+  ]
+ }
+]
