@@ -20,6 +20,7 @@
 ## โครงไฟล์ใน repo
 - `story/treatment-modern.md` — **ฉบับเล่าใหม่ (ใช้ตัวนี้เป็นหลัก)**
 - `story/synopsis.md` — ลำดับเรื่องตามต้นฉบับเต็ม (34 ข้อ)
+- `narrator.md` — แนวทางและเสียงผู้บรรยาย
 - `art-direction.md` — สไตล์ภาพ ชุดสี prompt ฐาน
 - `characters/`, `locations/` — sheet + prompt ภาพ
 - `episodes/epXX/` — `EPxx_MASTER_SHOT_BREAKDOWN_vX.md` (รูปแบบเดียวกับสยามสัมปัตติ)
@@ -43,4 +44,5 @@
 - 2026-11-21: เจนลุคอื่นตัวละครหลัก 13 ลุค + ตัวละครรอง 14 ภาพ (~276 เครดิต รวมเจนซ้ำ) อัปขึ้น Drive ครบ — รายการใน `characters/README.md` · ลบภาพที่ไม่ได้เลือกแล้ว (ย้ายไปถังขยะ Drive)
 - 2026-11-21: แก้กุลา 3 ลุคให้หน้าตรง v3 + วิไลทรงมหาดไทย · 🔒 **Visual Lock สถานที่ 17 ภาพ** (`locations/README.md`) · prompt รอบนี้ `characters/prompts/batch_2026-11-21_b.json`
 - 2026-11-21: EP1 Master Shot Breakdown v0.1 (รูปแบบเดียวกับสยามสัมปัตติ, มีผู้บรรยาย, 8 ซีเควนซ์ 51 ช็อต, 10:43 นาที) — `episodes/ep01/` · Drive [EP01](https://drive.google.com/drive/folders/1-zn-WRrtb_tttJqBD_Y0BygL_e1Y76nH)
-- **ขั้นต่อไป:** เจ้าของงานตรวจบท EP1 + ตอบจุดตัดสินใจ (เสียงผู้บรรยาย ฯลฯ) → เจน baseline สถานที่ที่ขาด (ห้องประสูติ สวนในฝัน เมือง/ประตูนพรัตน์) → เจนภาพต้นทาง SQ01 (Visual Lock) → ลุคอื่น (image-to-image) + ตัวละครรอง → อนุมัติ (Visual Lock) → ลุคอื่น + ตัวละครรอง → location sheet → character sheet + location sheet (gpt-image 2.6) → บท EP1
+- 2026-11-21: EP1 v0.2 — ผู้บรรยายแบบเบา (VO 5 จุด) เสียงหญิงเล่านิทาน (`narrator.md`)
+- **ขั้นต่อไป:** เจ้าของงานตรวจบท EP1 v0.2 + ลำดับเวลา (ปัจจุบัน → ย้อน 18 ปี → ปัจจุบัน) → เลือก/ออกแบบเสียงผู้บรรยาย → เจน baseline สถานที่ที่ขาด (ห้องประสูติ สวนในฝัน เมือง/ประตูนพรัตน์) → เจนภาพต้นทาง SQ01 (Visual Lock) → ลุคอื่น (image-to-image) + ตัวละครรอง → อนุมัติ (Visual Lock) → ลุคอื่น + ตัวละครรอง → location sheet → character sheet + location sheet (gpt-image 2.6) → บท EP1
