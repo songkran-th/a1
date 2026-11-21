@@ -64,5 +64,26 @@
    "SANO",
    "VIAL"
   ]
+ },
+ {
+  "name": "EP01_SQ07_SH003_v2",
+  "prompt": "Cinematic film still, first frame of a video shot, 16:9, no text, no subtitles, no decorative border, no frame, full-bleed image. Deep wild forest: NO buildings, banners or flags. Keep Sano Noi's identical face, low bun and plain village clothes (cream sabai, brown pha sin, cloth bundle), barefoot. Kula: reproduce her EXACT face from her reference (heart-shaped face, upturned eyes, mole under left eye, messy wavy bun), faded olive-green pha sin and reddish-brown sabai, barefoot.\nReference images: the forest; Kula; Sano Noi; the vial. The fifth reference image is the previous shot: Kula is STILL LYING FLAT ON HER BACK on the ground exactly as there, eyes closed, motionless, lifeless and pale — she is NOT sitting, NOT smiling. Close shot: Sano Noi, kneeling over her, gently anoints Kula's forehead with a few drops of glowing golden liquid from the small glowing glass vial with a gold lotus-bud stopper and red thread (as held in the vial reference image); a soft golden light is seeping into Kula's skin from the forehead and the bite on her ankle, color beginning to return to her face; local golden glow only.\nThai cinematic painterly fairy-tale, epic fantasy illustration with refined visible brushwork,\nancient Thai fairy-tale kingdom, Thai mural and lai rod nam ornamental motifs,\nwarm high-key golden light, palette of sesbania yellow, gold leaf, ivory, jade green and deep indigo,\nexquisitely detailed traditional Thai costumes and architecture, magical glowing accents,\ncinematic composition, 16:9",
+  "refs": [
+   "LOC_FOREST.jpg",
+   "CHR_KULA_SERVANT_v3.jpg",
+   "CHR_SANO_COMMONER.jpg",
+   "EP01_SQ06_SH007_v1.png",
+   "EP01_SQ07_SH002_v1.png"
+  ]
+ },
+ {
+  "name": "EP01_SQ07_SH007_v2",
+  "prompt": "Cinematic film still, first frame of a video shot, 16:9, no text, no subtitles, no decorative border, no frame, full-bleed image. Deep wild forest: NO buildings, banners or flags. Keep Sano Noi's identical face, low bun and plain village clothes (cream sabai, brown pha sin, cloth bundle), barefoot. Kula: reproduce her EXACT face from her reference (heart-shaped face, upturned eyes, mole under left eye, messy wavy bun), faded olive-green pha sin and reddish-brown sabai, barefoot.\nReference images: the forest; Kula; Sano Noi; the vial. Camera in FRONT of them, three-quarter front view, medium shot: the two women walk along the trail toward the camera; Sano Noi walks slightly ahead looking forward, the top of the small glowing glass vial with a gold lotus-bud stopper and red thread (as held in the vial reference image) just visible tucked in her cloth bundle; Kula walks one step behind her, her FACE CLEARLY VISIBLE, eyes turned sideways and fixed on the glowing vial in Sano Noi's bundle, a faint unreadable glint and a tiny smirk; no one else around.\nThai cinematic painterly fairy-tale, epic fantasy illustration with refined visible brushwork,\nancient Thai fairy-tale kingdom, Thai mural and lai rod nam ornamental motifs,\nwarm high-key golden light, palette of sesbania yellow, gold leaf, ivory, jade green and deep indigo,\nexquisitely detailed traditional Thai costumes and architecture, magical glowing accents,\ncinematic composition, 16:9",
+  "refs": [
+   "LOC_FOREST.jpg",
+   "CHR_KULA_SERVANT_v3.jpg",
+   "CHR_SANO_COMMONER.jpg",
+   "EP01_SQ06_SH007_v1.png"
+  ]
  }
 ]
