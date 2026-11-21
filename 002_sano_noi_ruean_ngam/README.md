@@ -32,4 +32,5 @@
 - 2026-11-21: v3.1 — design bible เรือนไม้โสน (`locations/ruean-sano.md`)
 - 2026-11-21: ร่าง art direction (`art-direction.md`) — ต่อยอดสไตล์ปทีปปรโลก รออนุมัติ
 - 2026-11-21: ✅ อนุมัติ art direction · ร่าง character sheet ตัวละครหลัก 3 คน (`characters/`)
-- **ขั้นต่อไป:** เจน Master Look ทั้ง 3 คน → อนุมัติ (Visual Lock) → ลุคอื่น + ตัวละครรอง → location sheet → character sheet + location sheet (gpt-image 2.6) → บท EP1
+- 2026-11-21: ร่าง character sheet ตัวละครรอง 12 รายการ (`characters/supporting.md`)
+- **ขั้นต่อไป:** เจน Master Look ตัวละครหลัก → อนุมัติ (Visual Lock) → ลุคอื่น + ตัวละครรอง → location sheet → character sheet + location sheet (gpt-image 2.6) → บท EP1
