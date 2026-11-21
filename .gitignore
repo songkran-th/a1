@@ -1,0 +1,16 @@
+# ไฟล์ใหญ่เก็บใน Google Drive — ห้ามเข้า GitHub
+*.mp4
+*.mov
+*.webm
+*.mkv
+*.wav
+*.mp3
+*.m4a
+*.aac
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.psd
+*.zip
+.DS_Store
