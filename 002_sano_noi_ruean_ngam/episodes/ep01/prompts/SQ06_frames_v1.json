@@ -57,5 +57,15 @@
    "FOREST",
    "SANO"
   ]
+ },
+ {
+  "name": "EP01_SQ06_SH005_v2",
+  "prompt": "Cinematic film still, first frame of a video shot, 16:9, no text, no subtitles, no decorative border, no frame, full-bleed image. Deep wild forest: absolutely NO buildings, palaces, temples, walls, banners or flags anywhere. Use the forest reference for trees, mist, light and palette. Keep Sano Noi's identical face, hair (simple low bun) and plain village clothes (cream cotton sabai, brown pha sin, cloth bundle), barefoot.\nReference images: the forest; Sano Noi; the old ascetic. Medium shot: Sano Noi kneels and holds out, in both cupped hands, the small opened banana-leaf parcel of white sticky rice (exactly the parcel from the fourth reference image) to the old ascetic without hesitation — NOT her cloth bag, which stays slung on her shoulder; a gentle kind smile; he looks at her with quiet surprise.\nThai cinematic painterly fairy-tale, epic fantasy illustration with refined visible brushwork,\nancient Thai fairy-tale kingdom, Thai mural and lai rod nam ornamental motifs,\nwarm high-key golden light, palette of sesbania yellow, gold leaf, ivory, jade green and deep indigo,\nexquisitely detailed traditional Thai costumes and architecture, magical glowing accents,\ncinematic composition, 16:9",
+  "refs": [
+   "LOC_FOREST.jpg",
+   "CHR_SANO_COMMONER.jpg",
+   "CHR_INDRA.jpg",
+   "EP01_SQ06_SH003_v1.png"
+  ]
  }
 ]
