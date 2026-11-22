@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Generate images with KIE (GPT Image 2.6) and download the results.
 
-API keys are injected by the cloud session's network proxy (environment "a1"); no key is read here.
+API key: in the cloud environment "a1" the network proxy injects it (nothing to set).
+On a PC set the environment variable KIE_API_KEY (never commit the key).
 
 Single image:
   python3 tools/kie_image.py --prompt-file p.txt --out out.png [--ref ref1.jpg --ref ref2.jpg] [--model sunburst]
@@ -18,11 +19,12 @@ API = "https://api.kie.ai"
 UPLOAD = "https://kieai.redpandaai.co/api/file-stream-upload"
 _lock = threading.Lock()
 _uploaded = {}
+AUTH = "Bearer " + os.environ.get("KIE_API_KEY", "proxy-injected")
 
 def call(method, path, body=None):
     req = urllib.request.Request(API + path, method=method,
         data=json.dumps(body).encode() if body is not None else None,
-        headers={"Content-Type": "application/json", "Authorization": "Bearer proxy-injected"})
+        headers={"Content-Type": "application/json", "Authorization": AUTH})
     with urllib.request.urlopen(req, timeout=120) as r:
         return json.loads(r.read())
 
@@ -40,7 +42,7 @@ def upload(path):
                  + open(path, "rb").read() + b"\r\n")
     parts.append(f"--{b}--\r\n".encode())
     req = urllib.request.Request(UPLOAD, data=b"".join(parts), method="POST",
-        headers={"Content-Type": f"multipart/form-data; boundary={b}", "Authorization": "Bearer proxy-injected"})
+        headers={"Content-Type": f"multipart/form-data; boundary={b}", "Authorization": AUTH})
     with urllib.request.urlopen(req, timeout=300) as r:
         url = json.loads(r.read())["data"]["downloadUrl"]
     with _lock: _uploaded[path] = url

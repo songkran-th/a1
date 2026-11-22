@@ -31,7 +31,14 @@
 - ถ้าดัดแปลงจากเรื่องที่มีอยู่แล้ว ให้ยึดเนื้อเรื่องเดิม ไม่แต่งเหตุการณ์หลักขึ้นใหม่ (ใช้ skill `kendo-drama-novel`)
 - เครื่องมือแต่ละเรื่องอาจต่างกัน — ดูที่ README ของเรื่อง
 
+## ทำงานบน PC (Claude Desktop / Claude Code ในเครื่อง)
+- repo: `git clone https://github.com/songkran-th/a1.git` แล้ว `git checkout claude/zealous-albattani-yx19ld` (branch งานหลักตอนนี้) · เริ่มงาน `git pull` · จบงาน commit + push
+- KIE บน PC: ตั้ง environment variable `KIE_API_KEY` ในเครื่อง (ห้าม commit คีย์) — `tools/kie_image.py`/`kie_video.py` อ่านเอง · บน cloud ไม่ต้องตั้ง (proxy ใส่ให้)
+- ต้องมี Python 3 + ffmpeg ในเครื่อง (ใช้กับสคริปต์ตัดหยาบ `episodes/*/roughcut_*.py` ต้องแก้ path ในสคริปต์ให้ชี้โฟลเดอร์ในเครื่อง)
+- ไฟล์ภาพ/เสียง/คลิปใช้จาก Google Drive for desktop (`My Drive/PHI_JUK_STORY/`) — บน PC อ่าน/เขียนไฟล์ใหญ่ได้ตรงๆ ไม่ติดขีดจำกัด 3 MB
+- ElevenLabs / Google Drive connector ใช้ได้ทั้งสองที่ (ผูกกับบัญชี)
+
 ## ข้อจำกัด
 - อัปไฟล์ขึ้น Drive ผ่าน connector ได้ ~3 MB ต่อไฟล์ → ภาพให้อัปเป็น JPG คุณภาพ 95 (ภาพ 2K ~1.5–1.8 MB) · ไฟล์ใหญ่กว่านั้น (วิดีโอ เสียง) เจ้าของงานอัปเอง
-- เจนภาพผ่าน KIE ด้วย `tools/kie_image.py` (ใช้ได้ใน cloud environment "a1" ซึ่งเก็บ API key ไว้)
+- เจนภาพผ่าน KIE ด้วย `tools/kie_image.py` (cloud environment "a1" เก็บ API key ไว้ · บน PC ใช้ `KIE_API_KEY`)
 - การตัดต่อใน CapCut ทำได้บน PC เท่านั้น (cloud แก้โปรเจกต์ CapCut ไม่ได้)
