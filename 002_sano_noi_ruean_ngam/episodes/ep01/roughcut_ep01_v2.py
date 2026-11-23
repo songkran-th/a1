@@ -1,6 +1,12 @@
 import subprocess,os,json,sys
-SC="/tmp/claude-0/-home-user-a1/fddcc687-8f8b-5481-834b-8050c52e2545/scratchpad"
-V=f"{SC}/chr/vid"; VO=f"{SC}/voice"; OUT=f"{SC}/rough2"; os.makedirs(OUT,exist_ok=True)
+# Paths (PC defaults; override with env vars EP01_MOTION / EP01_VO / EP01_DLG / EP01_OUT)
+MEDIA=r"D:\PHI_JUK_STORY\002_SANO_NOI_RUEAN_NGAM\EP01"
+DRIVE=r"G:\My Drive\PHI_JUK_STORY\002_SANO_NOI_RUEAN_NGAM\EP01"
+V=os.environ.get("EP01_MOTION", os.path.join(MEDIA,"MOTION"))
+VO=os.environ.get("EP01_VO", os.path.join(DRIVE,"VO_NARRATOR"))
+DLGDIR=os.environ.get("EP01_DLG", os.path.join(DRIVE,"DIALOGUE"))
+OUT=os.environ.get("EP01_OUT", os.path.join(MEDIA,"ROUGHCUT_v2")); os.makedirs(OUT,exist_ok=True)
+def fwd(p): return os.path.abspath(p).replace("\\","/")   # ffmpeg concat lists want forward slashes
 SEQ={
 "SQ01":["SH001","SH002","SH003","SH004","SH005"],
 "SQ02":["SH001","SH002","SH003","SH004","SH005","SH006"],
@@ -14,7 +20,7 @@ SEQ={
 import glob
 VOS={("SQ01","SH001"):("EP01_VO01_take1",1.5),("SQ02","SH006"):("EP01_VO02_take1",0.2),("SQ03","SH003"):("EP01_VO03_v2_take1",2.0),("SQ04","SH001"):("EP01_VO04_v2_take2",2.0),("SQ05","SH003"):("EP01_VO05_v2_take1",1.0)}
 DLG={}
-for f in sorted(glob.glob(f"{VO}/dialogue/EP01_D*_take1.mp3")):
+for f in sorted(glob.glob(os.path.join(DLGDIR,"EP01_D*_take1.mp3"))):
     if "_D07_" in f and "_v2_" not in f: continue
     k=os.path.basename(f).split("_")[2]   # SQ01SH004
     DLG[(k[:4],k[4:])]=f
@@ -40,10 +46,10 @@ for sq,shots in SEQ.items():
             cmd+=["-filter_complex","[0:a]volume=1.0[a];[0:v]scale=1280:720,fps=30,setsar=1[v]","-map","[v]","-map","[a]"]
         cmd+=["-c:v","libx264","-crf","26","-preset","veryfast","-c:a","aac","-ar","48000","-ac","2","-b:a","128k",o]
         subprocess.run(cmd,check=True); parts.append(o)
-    lst=f"{OUT}/{sq}.txt"; open(lst,"w").write("".join(f"file '{p}'\n" for p in parts))
+    lst=f"{OUT}/{sq}.txt"; open(lst,"w",encoding="utf-8").write("".join(f"file '{fwd(p)}'\n" for p in parts))
     out=f"{OUT}/EP01_{sq}_ROUGHCUT_v2.mp4"
     subprocess.run(["ffmpeg","-v","error","-y","-f","concat","-safe","0","-i",lst,"-c","copy",out],check=True)
     listing.append(out); print(sq, round(dur(out),1),"s", round(os.path.getsize(out)/1e6,1),"MB",flush=True)
-open(f"{OUT}/all.txt","w").write("".join(f"file '{p}'\n" for p in listing))
+open(f"{OUT}/all.txt","w",encoding="utf-8").write("".join(f"file '{fwd(p)}'\n" for p in listing))
 subprocess.run(["ffmpeg","-v","error","-y","-f","concat","-safe","0","-i",f"{OUT}/all.txt","-c","copy",f"{OUT}/EP01_FULL_ROUGHCUT_v2.mp4"],check=True)
 f=f"{OUT}/EP01_FULL_ROUGHCUT_v2.mp4"; print("FULL",round(dur(f),1),"s",round(os.path.getsize(f)/1e6,1),"MB")
