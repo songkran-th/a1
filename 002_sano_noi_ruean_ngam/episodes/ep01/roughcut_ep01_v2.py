@@ -18,7 +18,7 @@ SEQ={
 "SQ08":["SH001","SH002","SH002I","SH003","SH004","SH005","SH006","SH007","SH008","SH009","SH010"],
 }
 import glob
-VOS={("SQ01","SH001"):("EP01_VO01_take1",1.5),("SQ02","SH006"):("EP01_VO02_take1",0.2),("SQ03","SH003"):("EP01_VO03_v2_take1",2.0),("SQ04","SH001"):("EP01_VO04_v2_take2",2.0),("SQ05","SH003"):("EP01_VO05_v2_take1",1.0)}
+VOS={("SQ01","SH001"):("EP01_VO01_take1",1.5),("SQ02","SH006"):("EP01_VO02_take1",0.2),("SQ03","SH003"):("EP01_VO03_v3_take1",2.0),("SQ04","SH001"):("EP01_VO04_v3_take1",2.0),("SQ05","SH003"):("EP01_VO05_v3_take1",1.0)}
 DLG={}
 for f in sorted(glob.glob(os.path.join(DLGDIR,"EP01_D*_take1.mp3"))):
     if "_D07_" in f and "_v3_" not in f: continue   # D07 v3 = spelling สะโน๋
