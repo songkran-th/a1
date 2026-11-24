@@ -1,0 +1,9 @@
+[
+ {
+  "name": "EP01_SQ01_SH002_MOTION_GROK_v2",
+  "model": "grok",
+  "image": "EP01_SQ01_SH002_v2.jpg",
+  "prompt": "The prince holds his fully drawn bow perfectly still, frozen at full draw like a statue: his right hand stays anchored at his cheek with the fingers hooked on the string, his right elbow points straight back in line with the arrow, his left arm stays straight holding the bow grip; the bowstring stays taut in one straight line from the top bow tip to his fingers and from his fingers to the bottom bow tip; his hands, arms, bow, string and arrow do not move or change shape at any moment. Only the world moves: the deer on the right bounds away into the thicket and vanishes; the leaves stop moving and the forest falls unnaturally still; the light dims slightly. The camera stays locked off and still, no zoom, no push-in. Ambient: a sudden hush, faint wind dying. Nobody speaks; all mouths stay closed. Lock the composition, identity, proportions, wardrobe, props and painterly palette of frame one. No music, text, subtitles, extra characters or objects.",
+  "duration": 10
+ }
+]
